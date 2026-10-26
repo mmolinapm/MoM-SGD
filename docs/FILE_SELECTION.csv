@@ -1,0 +1,117 @@
+original_candidate_file,decision,reason
+.gitattributes,keep,Preserved for reproducibility or auditing
+.gitignore,keep,Preserved for reproducibility or auditing
+AUDIT.md,keep,Preserved for reproducibility or auditing
+CITATION.cff,keep,Preserved for reproducibility or auditing
+MANIFEST.sha256.json,keep,Preserved for reproducibility or auditing
+PUBLICATION_FILES.txt,keep,Preserved for reproducibility or auditing
+README.md,keep,Preserved for reproducibility or auditing
+VALIDATION.md,keep,Preserved for reproducibility or auditing
+experiments/cifar10_siopt_final.py,keep,Preserved for reproducibility or auditing
+experiments/cifar10_siopt_final_analysis.py,keep,Preserved for reproducibility or auditing
+experiments/pareto_d10_final.py,keep,Preserved for reproducibility or auditing
+provenance/cnn_inputs.json,keep,Preserved for reproducibility or auditing
+provenance/excluded_generated_sizes.json,exclude_from_new_proposal,Local preparation inventory.
+provenance/generated_figures.json,exclude_from_new_proposal,Replaced by selected unchanged figure inventory.
+provenance/original_inventory.json,exclude_from_new_proposal,Historical workspace inventory; no runtime/scientific dependency.
+provenance/pareto_original_manifest.json,keep,Preserved for reproducibility or auditing
+provenance/pareto_projection.json,keep,Preserved for reproducibility or auditing
+provenance/publication_scan.json,exclude_from_new_proposal,Preparation-only scan; new scan performed for proposal.
+provenance/source_equivalence.json,keep,Preserved for reproducibility or auditing
+provenance/staging_checks.json,exclude_from_new_proposal,Preparation-only record; equivalence evidence retained.
+provenance/tested_dependencies.json,keep,Preserved for reproducibility or auditing
+pytest.ini,keep,Preserved for reproducibility or auditing
+requirements-tested.txt,keep,Preserved for reproducibility or auditing
+requirements.txt,keep,Preserved for reproducibility or auditing
+results/cnn/reference/aggregated_accuracy.csv,keep,Preserved for reproducibility or auditing
+results/cnn/reference/aggregated_test_loss.csv,keep,Preserved for reproducibility or auditing
+results/cnn/reference/aggregated_training_loss.csv,keep,Preserved for reproducibility or auditing
+results/cnn/reference/final_median_iqr_summary.csv,keep,Preserved for reproducibility or auditing
+results/cnn/reference/final_per_seed_metrics.csv,keep,Preserved for reproducibility or auditing
+results/cnn/reference/gradient_diagnostics_summary.csv,keep,Preserved for reproducibility or auditing
+results/cnn/runtime/component_breakdown.csv,keep,Preserved for reproducibility or auditing
+results/cnn/runtime/correctness_checks.json,keep,Preserved for reproducibility or auditing
+results/cnn/runtime/paired_round_ratios.csv,keep,Preserved for reproducibility or auditing
+results/cnn/runtime/runtime_audit.csv,keep,Preserved for reproducibility or auditing
+results/cnn/seed123/clipped_0.25_evaluation.csv.gz,keep,Preserved for reproducibility or auditing
+results/cnn/seed123/clipped_0.25_optimization.csv.gz,keep,Preserved for reproducibility or auditing
+results/cnn/seed123/clipped_0.5_evaluation.csv.gz,keep,Preserved for reproducibility or auditing
+results/cnn/seed123/clipped_0.5_optimization.csv.gz,keep,Preserved for reproducibility or auditing
+results/cnn/seed123/clipped_2_evaluation.csv.gz,keep,Preserved for reproducibility or auditing
+results/cnn/seed123/clipped_2_optimization.csv.gz,keep,Preserved for reproducibility or auditing
+results/cnn/seed123/clipped_4_evaluation.csv.gz,keep,Preserved for reproducibility or auditing
+results/cnn/seed123/clipped_4_optimization.csv.gz,keep,Preserved for reproducibility or auditing
+results/cnn/seed123/clipped_8_evaluation.csv.gz,keep,Preserved for reproducibility or auditing
+results/cnn/seed123/clipped_8_optimization.csv.gz,keep,Preserved for reproducibility or auditing
+results/cnn/seed123/completion.json,keep,Preserved for reproducibility or auditing
+results/cnn/seed123/config.json,keep,Preserved for reproducibility or auditing
+results/cnn/seed123/mom_K5_m20_evaluation.csv.gz,keep,Preserved for reproducibility or auditing
+results/cnn/seed123/mom_K5_m20_optimization.csv.gz,keep,Preserved for reproducibility or auditing
+results/cnn/seed123/normalized_evaluation.csv.gz,keep,Preserved for reproducibility or auditing
+results/cnn/seed123/normalized_optimization.csv.gz,keep,Preserved for reproducibility or auditing
+results/cnn/seed123/sgd_evaluation.csv.gz,keep,Preserved for reproducibility or auditing
+results/cnn/seed123/sgd_optimization.csv.gz,keep,Preserved for reproducibility or auditing
+results/cnn/seed2026/clipped_0.25_evaluation.csv.gz,keep,Preserved for reproducibility or auditing
+results/cnn/seed2026/clipped_0.25_optimization.csv.gz,keep,Preserved for reproducibility or auditing
+results/cnn/seed2026/clipped_0.5_evaluation.csv.gz,keep,Preserved for reproducibility or auditing
+results/cnn/seed2026/clipped_0.5_optimization.csv.gz,keep,Preserved for reproducibility or auditing
+results/cnn/seed2026/clipped_2_evaluation.csv.gz,keep,Preserved for reproducibility or auditing
+results/cnn/seed2026/clipped_2_optimization.csv.gz,keep,Preserved for reproducibility or auditing
+results/cnn/seed2026/clipped_4_evaluation.csv.gz,keep,Preserved for reproducibility or auditing
+results/cnn/seed2026/clipped_4_optimization.csv.gz,keep,Preserved for reproducibility or auditing
+results/cnn/seed2026/clipped_8_evaluation.csv.gz,keep,Preserved for reproducibility or auditing
+results/cnn/seed2026/clipped_8_optimization.csv.gz,keep,Preserved for reproducibility or auditing
+results/cnn/seed2026/completion.json,keep,Preserved for reproducibility or auditing
+results/cnn/seed2026/config.json,keep,Preserved for reproducibility or auditing
+results/cnn/seed2026/mom_K5_m20_evaluation.csv.gz,keep,Preserved for reproducibility or auditing
+results/cnn/seed2026/mom_K5_m20_optimization.csv.gz,keep,Preserved for reproducibility or auditing
+results/cnn/seed2026/normalized_evaluation.csv.gz,keep,Preserved for reproducibility or auditing
+results/cnn/seed2026/normalized_optimization.csv.gz,keep,Preserved for reproducibility or auditing
+results/cnn/seed2026/sgd_evaluation.csv.gz,keep,Preserved for reproducibility or auditing
+results/cnn/seed2026/sgd_optimization.csv.gz,keep,Preserved for reproducibility or auditing
+results/cnn/seed42/clipped_0.25_evaluation.csv.gz,keep,Preserved for reproducibility or auditing
+results/cnn/seed42/clipped_0.25_optimization.csv.gz,keep,Preserved for reproducibility or auditing
+results/cnn/seed42/clipped_0.5_evaluation.csv.gz,keep,Preserved for reproducibility or auditing
+results/cnn/seed42/clipped_0.5_optimization.csv.gz,keep,Preserved for reproducibility or auditing
+results/cnn/seed42/clipped_2_evaluation.csv.gz,keep,Preserved for reproducibility or auditing
+results/cnn/seed42/clipped_2_optimization.csv.gz,keep,Preserved for reproducibility or auditing
+results/cnn/seed42/clipped_4_evaluation.csv.gz,keep,Preserved for reproducibility or auditing
+results/cnn/seed42/clipped_4_optimization.csv.gz,keep,Preserved for reproducibility or auditing
+results/cnn/seed42/clipped_8_evaluation.csv.gz,keep,Preserved for reproducibility or auditing
+results/cnn/seed42/clipped_8_optimization.csv.gz,keep,Preserved for reproducibility or auditing
+results/cnn/seed42/completion.json,keep,Preserved for reproducibility or auditing
+results/cnn/seed42/config.json,keep,Preserved for reproducibility or auditing
+results/cnn/seed42/mom_K5_m20_evaluation.csv.gz,keep,Preserved for reproducibility or auditing
+results/cnn/seed42/mom_K5_m20_optimization.csv.gz,keep,Preserved for reproducibility or auditing
+results/cnn/seed42/normalized_evaluation.csv.gz,keep,Preserved for reproducibility or auditing
+results/cnn/seed42/normalized_optimization.csv.gz,keep,Preserved for reproducibility or auditing
+results/cnn/seed42/sgd_evaluation.csv.gz,keep,Preserved for reproducibility or auditing
+results/cnn/seed42/sgd_optimization.csv.gz,keep,Preserved for reproducibility or auditing
+results/pareto/data_fingerprints_seed0.json,keep,Preserved for reproducibility or auditing
+results/pareto/data_fingerprints_seed1.json,keep,Preserved for reproducibility or auditing
+results/pareto/data_fingerprints_seed2.json,keep,Preserved for reproducibility or auditing
+results/pareto/data_fingerprints_seed3.json,keep,Preserved for reproducibility or auditing
+results/pareto/data_fingerprints_seed4.json,keep,Preserved for reproducibility or auditing
+results/pareto/plot_inputs.json.gz,keep,Preserved for reproducibility or auditing
+results/pareto/reference/all_runs_summary.csv,exclude_from_new_proposal,Full terminal records retained in plot_inputs.json.gz.
+results/pareto/reference/batch_budget_audit.csv,keep,Preserved for reproducibility or auditing
+results/pareto/reference/equal_iterations.csv,exclude_from_new_proposal,Derived records retained in plot_inputs.json.gz; reconstruction exports this CSV.
+results/pareto/reference/equal_iterations_summary.csv,exclude_from_new_proposal,Byte-identical duplicate of equal_iterations.csv.
+results/pareto/reference/equal_samples.csv,exclude_from_new_proposal,Derived records retained in plot_inputs.json.gz; reconstruction exports this CSV.
+results/pareto/reference/equal_samples_summary.csv,exclude_from_new_proposal,Byte-identical duplicate of equal_samples.csv.
+results/pareto/reference/five_seed_aggregate_equal_iterations.csv,keep,Preserved for reproducibility or auditing
+results/pareto/reference/five_seed_aggregate_equal_samples.csv,keep,Preserved for reproducibility or auditing
+results/pareto/reference/schedule_audit.csv,keep,Preserved for reproducibility or auditing
+results/pareto/reference/timing_summary.csv,exclude_from_new_proposal,All individual timing fields remain in terminal records.
+scripts/prepare_cifar10.py,keep,Preserved for reproducibility or auditing
+scripts/reconstruct.py,keep,Preserved for reproducibility or auditing
+scripts/verify_manifest.py,keep,Preserved for reproducibility or auditing
+src/__init__.py,keep,Preserved for reproducibility or auditing
+src/cifar10_utils.py,keep,Preserved for reproducibility or auditing
+src/mom.py,keep,Preserved for reproducibility or auditing
+src/optimizers.py,keep,Preserved for reproducibility or auditing
+src/schedules.py,keep,Preserved for reproducibility or auditing
+tests/test_cifar10_siopt_final.py,keep,Preserved for reproducibility or auditing
+tests/test_cifar10_siopt_final_analysis.py,keep,Preserved for reproducibility or auditing
+tests/test_mom.py,keep,Preserved for reproducibility or auditing
+tests/test_publication.py,keep,Preserved for reproducibility or auditing

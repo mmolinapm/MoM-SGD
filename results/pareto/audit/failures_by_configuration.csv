@@ -1,0 +1,13 @@
+schedule,regime_variant,method,reference_k,mom_k,clipping_threshold,failure_reason,failed_count,planned_seeds,completed_count,seed_ids,failure_iterations,last_finite_error_min,last_finite_error_max,classification
+regime1,R1-LOG,sgd,11,,,nonfinite per-observation loss,2,5,3,1;4,1156;239,9.277984729489637e+26,6.995113967179768e+27,numerical nonfiniteness; no mathematical divergence claim
+regime1,R1-LOG,sgd,31,,,nonfinite per-observation loss,2,5,3,1;4,624;84,1.4923313576201418e+26,1.7496299344718034e+28,numerical nonfiniteness; no mathematical divergence claim
+regime1,R1-LOG,sgd,51,,,nonfinite per-observation loss,2,5,3,1;4,380;53,4.9663678386255865e+26,1.157542576328659e+28,numerical nonfiniteness; no mathematical divergence claim
+regime2,R2-LOG,sgd,11,,,nonfinite per-observation loss,2,5,3,1;4,1224;247,3.864639000302335e+26,1.8086204379250282e+28,numerical nonfiniteness; no mathematical divergence claim
+regime2,R2-LOG,sgd,31,,,nonfinite per-observation loss,2,5,3,1;4,405;85,7.047193405344475e+26,1.2512129586404578e+28,numerical nonfiniteness; no mathematical divergence claim
+regime2,R2-LOG,sgd,51,,,nonfinite per-observation loss,2,5,3,1;4,247;56,7.701129744887716e+26,1.6134506980278052e+28,numerical nonfiniteness; no mathematical divergence claim
+regime3_a,R3-CONST-LOG,sgd,11,,,nonfinite per-observation loss,2,5,3,1;4,2048;241,4.407580911819184e+26,1.2052808610448262e+28,numerical nonfiniteness; no mathematical divergence claim
+regime3_a,R3-CONST-LOG,sgd,31,,,nonfinite per-observation loss,2,5,3,1;4,413;612,1.19244872663939e+26,7.795424335504178e+26,numerical nonfiniteness; no mathematical divergence claim
+regime3_a,R3-CONST-LOG,sgd,51,,,nonfinite per-observation loss,2,5,3,1;4,252;57,1.4226527479316798e+27,1.9142000382108139e+28,numerical nonfiniteness; no mathematical divergence claim
+regime3_b,R3-CONST-RM,sgd,11,,,nonfinite per-observation loss,2,5,3,1;4,2048;241,7.194819894261273e+27,6.088565523593117e+28,numerical nonfiniteness; no mathematical divergence claim
+regime3_b,R3-CONST-RM,sgd,31,,,nonfinite per-observation loss,2,5,3,1;4,413;612,1.1364083482469437e+27,5.208762556759684e+27,numerical nonfiniteness; no mathematical divergence claim
+regime3_b,R3-CONST-RM,sgd,51,,,nonfinite per-observation loss,2,5,3,1;4,252;57,9.069927002135272e+27,9.419496639254835e+28,numerical nonfiniteness; no mathematical divergence claim

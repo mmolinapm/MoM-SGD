@@ -1,0 +1,52 @@
+experiment,figure,proposed_role,manuscript_reference,reason
+cnn,figure_A_training_loss,main,PENDING: final manuscript unavailable,Three-seed optimization/generalization and individual final observations
+cnn,figure_B_test_loss,main,PENDING: final manuscript unavailable,Three-seed optimization/generalization and individual final observations
+cnn,figure_C_accuracy,main,PENDING: final manuscript unavailable,Three-seed optimization/generalization and individual final observations
+cnn,figure_D_gradient_diagnostics,supplementary,PENDING: final manuscript unavailable,Three-seed diagnostics
+cnn,figure_E_final_performance,main,PENDING: final manuscript unavailable,Three-seed optimization/generalization and individual final observations
+pareto,completion_rate,main,PENDING: final manuscript unavailable,"Budget, completion or robustness summary"
+pareto,equal_iterations_vs_equal_samples,main,PENDING: final manuscript unavailable,"Budget, completion or robustness summary"
+pareto,mom_k_sensitivity,main,PENDING: final manuscript unavailable,"Budget, completion or robustness summary"
+pareto,regime1_clipped_refK11_loss,exclude_from_proposed_release,PENDING: final manuscript unavailable,Dense minibatch-loss diagnostic
+pareto,regime1_clipped_refK11_theta_error,exclude_from_proposed_release,PENDING: final manuscript unavailable,Additional K sensitivity remains reconstructible
+pareto,regime1_clipped_refK31_loss,exclude_from_proposed_release,PENDING: final manuscript unavailable,Dense minibatch-loss diagnostic
+pareto,regime1_clipped_refK31_theta_error,main,PENDING: final manuscript unavailable,Parameter-error evidence: representative R1 main panels; other regimes supplementary
+pareto,regime1_clipped_refK51_loss,exclude_from_proposed_release,PENDING: final manuscript unavailable,Dense minibatch-loss diagnostic
+pareto,regime1_clipped_refK51_theta_error,exclude_from_proposed_release,PENDING: final manuscript unavailable,Additional K sensitivity remains reconstructible
+pareto,regime1_mom_loss,exclude_from_proposed_release,PENDING: final manuscript unavailable,Dense minibatch-loss diagnostic
+pareto,regime1_mom_theta_error,main,PENDING: final manuscript unavailable,Parameter-error evidence: representative R1 main panels; other regimes supplementary
+pareto,regime1_sgd_loss,exclude_from_proposed_release,PENDING: final manuscript unavailable,Dense minibatch-loss diagnostic
+pareto,regime1_sgd_theta_error,main,PENDING: final manuscript unavailable,Parameter-error evidence: representative R1 main panels; other regimes supplementary
+pareto,regime2_clipped_refK11_loss,exclude_from_proposed_release,PENDING: final manuscript unavailable,Dense minibatch-loss diagnostic
+pareto,regime2_clipped_refK11_theta_error,exclude_from_proposed_release,PENDING: final manuscript unavailable,Additional K sensitivity remains reconstructible
+pareto,regime2_clipped_refK31_loss,exclude_from_proposed_release,PENDING: final manuscript unavailable,Dense minibatch-loss diagnostic
+pareto,regime2_clipped_refK31_theta_error,supplementary,PENDING: final manuscript unavailable,Parameter-error evidence: representative R1 main panels; other regimes supplementary
+pareto,regime2_clipped_refK51_loss,exclude_from_proposed_release,PENDING: final manuscript unavailable,Dense minibatch-loss diagnostic
+pareto,regime2_clipped_refK51_theta_error,exclude_from_proposed_release,PENDING: final manuscript unavailable,Additional K sensitivity remains reconstructible
+pareto,regime2_mom_loss,exclude_from_proposed_release,PENDING: final manuscript unavailable,Dense minibatch-loss diagnostic
+pareto,regime2_mom_theta_error,supplementary,PENDING: final manuscript unavailable,Parameter-error evidence: representative R1 main panels; other regimes supplementary
+pareto,regime2_sgd_loss,exclude_from_proposed_release,PENDING: final manuscript unavailable,Dense minibatch-loss diagnostic
+pareto,regime2_sgd_theta_error,supplementary,PENDING: final manuscript unavailable,Parameter-error evidence: representative R1 main panels; other regimes supplementary
+pareto,regime3_a_clipped_refK11_loss,exclude_from_proposed_release,PENDING: final manuscript unavailable,Dense minibatch-loss diagnostic
+pareto,regime3_a_clipped_refK11_theta_error,exclude_from_proposed_release,PENDING: final manuscript unavailable,Additional K sensitivity remains reconstructible
+pareto,regime3_a_clipped_refK31_loss,exclude_from_proposed_release,PENDING: final manuscript unavailable,Dense minibatch-loss diagnostic
+pareto,regime3_a_clipped_refK31_theta_error,supplementary,PENDING: final manuscript unavailable,Parameter-error evidence: representative R1 main panels; other regimes supplementary
+pareto,regime3_a_clipped_refK51_loss,exclude_from_proposed_release,PENDING: final manuscript unavailable,Dense minibatch-loss diagnostic
+pareto,regime3_a_clipped_refK51_theta_error,exclude_from_proposed_release,PENDING: final manuscript unavailable,Additional K sensitivity remains reconstructible
+pareto,regime3_a_mom_loss,exclude_from_proposed_release,PENDING: final manuscript unavailable,Dense minibatch-loss diagnostic
+pareto,regime3_a_mom_theta_error,supplementary,PENDING: final manuscript unavailable,Parameter-error evidence: representative R1 main panels; other regimes supplementary
+pareto,regime3_a_sgd_loss,exclude_from_proposed_release,PENDING: final manuscript unavailable,Dense minibatch-loss diagnostic
+pareto,regime3_a_sgd_theta_error,supplementary,PENDING: final manuscript unavailable,Parameter-error evidence: representative R1 main panels; other regimes supplementary
+pareto,regime3_b_clipped_refK11_loss,exclude_from_proposed_release,PENDING: final manuscript unavailable,Dense minibatch-loss diagnostic
+pareto,regime3_b_clipped_refK11_theta_error,exclude_from_proposed_release,PENDING: final manuscript unavailable,Additional K sensitivity remains reconstructible
+pareto,regime3_b_clipped_refK31_loss,exclude_from_proposed_release,PENDING: final manuscript unavailable,Dense minibatch-loss diagnostic
+pareto,regime3_b_clipped_refK31_theta_error,supplementary,PENDING: final manuscript unavailable,Parameter-error evidence: representative R1 main panels; other regimes supplementary
+pareto,regime3_b_clipped_refK51_loss,exclude_from_proposed_release,PENDING: final manuscript unavailable,Dense minibatch-loss diagnostic
+pareto,regime3_b_clipped_refK51_theta_error,exclude_from_proposed_release,PENDING: final manuscript unavailable,Additional K sensitivity remains reconstructible
+pareto,regime3_b_mom_loss,exclude_from_proposed_release,PENDING: final manuscript unavailable,Dense minibatch-loss diagnostic
+pareto,regime3_b_mom_theta_error,supplementary,PENDING: final manuscript unavailable,Parameter-error evidence: representative R1 main panels; other regimes supplementary
+pareto,regime3_b_sgd_loss,exclude_from_proposed_release,PENDING: final manuscript unavailable,Dense minibatch-loss diagnostic
+pareto,regime3_b_sgd_theta_error,supplementary,PENDING: final manuscript unavailable,Parameter-error evidence: representative R1 main panels; other regimes supplementary
+pareto,robustness_parameter_sensitivity,main,PENDING: final manuscript unavailable,"Budget, completion or robustness summary"
+pareto,stability,supplementary,PENDING: final manuscript unavailable,Finite transient diagnostic
+pareto,wall_clock_cost,exclude_from_proposed_release,PENDING: final manuscript unavailable,Sequential timing diagnostic

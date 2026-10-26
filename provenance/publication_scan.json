@@ -1,0 +1,11 @@
+{
+  "scan": "Targeted patterns; public text and decompressed numerical inputs. Not a guarantee against every possible secret.",
+  "findings": {
+    "windows_user_paths": [],
+    "email": [],
+    "credentials": []
+  },
+  "scientific_source_unchanged": true,
+  "numerical_inputs_unchanged": true,
+  "original_repository_unchanged": true
+}

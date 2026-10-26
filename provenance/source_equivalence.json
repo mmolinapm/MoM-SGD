@@ -1,0 +1,37 @@
+{
+  "pareto": {
+    "alpha": 2.1,
+    "original_sha256": "d041bc0c2ca51ee343e7259e4271b051d9256bdecd67d8f2dbe5b2e6a358a860",
+    "recovered_sha256": "140112fa52dd91218b6795ee24a9ca69c9b9b1922a79b5d5576e316037d12da2",
+    "recursive_bytecode_identity": true,
+    "byte_identical": false,
+    "recovery": "Editor history, restore alpha constant to 2.1; recursive code identity against original cached CPython 3.14 module including exception tables.",
+    "limitation": "Original source byte serialization not recovered; legacy source-hash validation/resume is not bypassed."
+  },
+  "cifar": {
+    "extracted_definitions": [
+      "CachedCIFAR",
+      "CachedEvaluationBatches",
+      "atomic_save",
+      "batch",
+      "cache_cifar",
+      "dump",
+      "evaluate",
+      "file_sha256",
+      "gradient",
+      "normalize",
+      "restore_rng",
+      "rng_state",
+      "sync",
+      "table"
+    ],
+    "ast_identical": true,
+    "original_source_hashes": {
+      "experiments/cifar10_siopt_final.py": "e93730d0b4f80f580e7950c748cabad0f142a8674d4b414206daf8096f5da3e7",
+      "experiments/cifar10_fixed_budget_sensitivity.py": "b6d44b1e67c3f6c1d8d4d1dd8779724e7cf7955f6a7271c1c58014dee6caaa62",
+      "src/mom.py": "0393c2601d05960e60d2b912c0587239b4ab631166524da438204139a19f1bdd",
+      "src/optimizers.py": "ff8d43043ba64eaf79e7809e2c007187c07c33ee871f4589ee3baa8cea9ad3b0"
+    },
+    "compatibility": "Distinct candidate hashes. Original checkpoints require original code. New candidate runs can resume their own checkpoints."
+  }
+}

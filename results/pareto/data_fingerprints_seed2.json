@@ -1,0 +1,9 @@
+{
+  "seed_id": 2,
+  "data_seed": 16180,
+  "training_seed": 14142,
+  "X_raw_sha256": "e0848b468886daf7857d10f606a4d31517c3f0d20e717cbb1a192b8617e0205b",
+  "epsilon_sha256": "17a1d7364fe01bdde998951d0945cb0b705a2d2b81801738cf7a12b4539626b0",
+  "noise_std": 2.0,
+  "theoretical_sd": 4.582575694955838
+}

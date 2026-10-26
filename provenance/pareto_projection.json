@@ -1,0 +1,2105 @@
+{
+  "description": "Exact float64 parsing of finite/theta_error/loss columns and full result records. Original CSV SHA256 checked before projection.",
+  "trajectories": [
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime1/K11/clipped_gamma1/trajectory.csv",
+      "sha256": "0a2fd716d3876059aed95414bdb593dafd39087bc9609ee462898933974cdd89",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime1/K11/clipped_gamma10/trajectory.csv",
+      "sha256": "d9a50f4d7538ad04c236dd4709c43a6def5e6c1a2f4cd702e87010e6c3e97f0b",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime1/K11/clipped_gamma100/trajectory.csv",
+      "sha256": "d3520a706cf7d70c403fbd3df62766727708a27a49b5f1586f6c740ffcfc8756",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime1/K11/clipped_gamma5/trajectory.csv",
+      "sha256": "798cebd65bbdd341ab83fcb1580338158c3ec83363d6a0b1a8b181db8d308e91",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime1/K11/clipped_gamma7/trajectory.csv",
+      "sha256": "993473d3ad23cf224cdeaa955acced8978290726d313e13eac311a8dd4699bc7",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime1/K11/mom/trajectory.csv",
+      "sha256": "17e4111ac81f397f115c04e2e77c1717d382af0e75a3f89b108741d263b8d3f7",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime1/K11/sgd/trajectory.csv",
+      "sha256": "5bc41df977fb731f878d6e03996380d3f44478969aca68d65489472464a4fe7f",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime1/K31/clipped_gamma1/trajectory.csv",
+      "sha256": "0346dd91fc720faec61bd6133f91b7b0aff892df716421674834d828e36e3927",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime1/K31/clipped_gamma10/trajectory.csv",
+      "sha256": "7c50eaa6a8d53d9eb188da5b58abd38b43edd0b92998aaa7096a4d4389409519",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime1/K31/clipped_gamma100/trajectory.csv",
+      "sha256": "332b5791df42cbc6536ad4c50656f25c260d1aaf02727cb0d4c412be600efba6",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime1/K31/clipped_gamma5/trajectory.csv",
+      "sha256": "60c6445b08385290f06eeda50452fc20006e0f242c0d8c1cfa4f5eeb656e1045",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime1/K31/clipped_gamma7/trajectory.csv",
+      "sha256": "276feef4e9998c6c1625bede22a1fd32c34d21da4c843d92c39534a635c1d546",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime1/K31/mom/trajectory.csv",
+      "sha256": "ecfccbc415edcba416c9b883bb65943ed34c3ea362775d230e3ad202be1d2368",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime1/K31/sgd/trajectory.csv",
+      "sha256": "8fc1c80ae75a4ab8783e3d47864fd3ffca5b43b3494fa1aa376cae2d9339f8a7",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime1/K51/clipped_gamma1/trajectory.csv",
+      "sha256": "15f86f5eaf7991237891aafebb960b6db6937ff6eee40ffc1d5d623c62527326",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime1/K51/clipped_gamma10/trajectory.csv",
+      "sha256": "bb90a0ec43144c516eab6c2804621268483d66b52b0fa67ef272686e2c1b6cd8",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime1/K51/clipped_gamma100/trajectory.csv",
+      "sha256": "f63b917d729fee1f66f6b998f5c3e45d4bd0a05d0865319caab2a69611a1fde4",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime1/K51/clipped_gamma5/trajectory.csv",
+      "sha256": "60c625a5cdda1fa12ce0d861f1b09c7156d0bb4d793876cfd74d53720bb1a232",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime1/K51/clipped_gamma7/trajectory.csv",
+      "sha256": "6f8d43825842508f1958f6b141cdcf2f9560f3642c5f5406fd4d0fe209a7dd77",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime1/K51/mom/trajectory.csv",
+      "sha256": "9097ff7802383558ea934a1ef9c36cec785df9a7b54995a8d0bf0e8740e998a4",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime1/K51/sgd/trajectory.csv",
+      "sha256": "b5ed57e57063641890b4663d3f3a5a1720c24e12cfa18876a754a9e20cd79e61",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime2/K11/clipped_gamma1/trajectory.csv",
+      "sha256": "83e7cab52da3ad95229ee3c06ec9f1b80cbf91cb0da8157082ad4798fab34de9",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime2/K11/clipped_gamma10/trajectory.csv",
+      "sha256": "d81a97598b0f460912c1c811b2fa0f80476dfded9ef5ac8b26b038eb835a920b",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime2/K11/clipped_gamma100/trajectory.csv",
+      "sha256": "ebe1ce840bfaaf8154c6bfb32a5abe553acfefb95b4902cae75d0f2f3855f3b7",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime2/K11/clipped_gamma5/trajectory.csv",
+      "sha256": "748a7fd8768de4b28d6ec170296d8d053e2b6f0341747e3fd0778d90b3ed96e6",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime2/K11/clipped_gamma7/trajectory.csv",
+      "sha256": "91138167a81b53c172b99b4b740af46d062bd44a89ce7a9123dfddb67ca6bb62",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime2/K11/mom/trajectory.csv",
+      "sha256": "e2aeeea463433e4a7f2f0b3f721558a286298c089df1af53742fba4d6c08228b",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime2/K11/sgd/trajectory.csv",
+      "sha256": "5720a30d98b2e10d6cbdbe360676c5a6821061e0982427fbaa7299eed777beca",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime2/K31/clipped_gamma1/trajectory.csv",
+      "sha256": "f118f86632969910b9b37f466b4df56eddce46185604b60e6d553bb1d51b43ec",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime2/K31/clipped_gamma10/trajectory.csv",
+      "sha256": "f521628d46191dd776b15b48f6a5dd2379f6a0a1bee1a2fa4c1e82e82e94acf7",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime2/K31/clipped_gamma100/trajectory.csv",
+      "sha256": "dc16fd1b65c536bdefbee89139ba1684b2920070610952b192d0041a0d8bcb91",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime2/K31/clipped_gamma5/trajectory.csv",
+      "sha256": "db71007323917317cf33bf45c7b5443479902fb1dffe7b946071bb238181fa87",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime2/K31/clipped_gamma7/trajectory.csv",
+      "sha256": "af087a01198205e7f082debf787fc3ae1ac99268a0c86fafe9bf803bc0c25db0",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime2/K31/mom/trajectory.csv",
+      "sha256": "866743b1fcc4e68851c5e885f123fd553c25e842749dfa60424df390478c08cd",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime2/K31/sgd/trajectory.csv",
+      "sha256": "36100e0c019d2c39ce8c428e4357a0d7b577d77ffa42fb186e5093068f255c46",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime2/K51/clipped_gamma1/trajectory.csv",
+      "sha256": "12f13684126da33f219945cfe064be0b33d10c6efd25fec345b276d619b86dd4",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime2/K51/clipped_gamma10/trajectory.csv",
+      "sha256": "a61c56d19831aed611b134a705e04a675b29f01f5fdc1df149e69d07af80b443",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime2/K51/clipped_gamma100/trajectory.csv",
+      "sha256": "169e6c15104b37271ac46e1b6f0f830bef3941d1b250c27424733fc6db13626d",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime2/K51/clipped_gamma5/trajectory.csv",
+      "sha256": "c97d2f95f511f8ffb4065a81d9dd9a2d659bb47a98e82215e0b8b63b59ad0cef",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime2/K51/clipped_gamma7/trajectory.csv",
+      "sha256": "3b768245f855e29d995cceecc4e5ad0937a8ea3b23c80ba203fe2ab52c2c4eb9",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime2/K51/mom/trajectory.csv",
+      "sha256": "61562b98ec5d49f9be8351338cbfacaae8514fb1344665de827d4cd27d9b4172",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime2/K51/sgd/trajectory.csv",
+      "sha256": "39bd54678d22ed673019b7ae4ca5756f1b936a0bbc7adedc2a1f3fc9633572b2",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime3_a/K11/clipped_gamma1/trajectory.csv",
+      "sha256": "04e99fd1583969376ce19e27fc16b7a317fb904a5392c942b27b30ccb09b10c9",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime3_a/K11/clipped_gamma10/trajectory.csv",
+      "sha256": "26b28d35894641afd8fc7329640345b4a9b2d91ccbbe08a5072425f49849a5f1",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime3_a/K11/clipped_gamma100/trajectory.csv",
+      "sha256": "a1dd8d292003a815504a4c16fc19061e090795df64efbf778aa845dc49cfe177",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime3_a/K11/clipped_gamma5/trajectory.csv",
+      "sha256": "ec5b128f888c868c913233e969cea84ee37b0836d4550d675f3a7b0bb014aa86",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime3_a/K11/clipped_gamma7/trajectory.csv",
+      "sha256": "2f1d2d34a8df5f4e99289b19e678c94b6f420c100f2282791deea558c61138f3",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime3_a/K11/mom/trajectory.csv",
+      "sha256": "f734d77c70bb4d0264761ef3782c1fb519b64939597fe8bc75d13f937b903fc6",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime3_a/K11/sgd/trajectory.csv",
+      "sha256": "f439aaaeba68528a02ab37e3936879658e94504f55b39e370731896959f57073",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime3_a/K31/clipped_gamma1/trajectory.csv",
+      "sha256": "80bf4e9e8cd100f55c9b8f93e666c8c82503b28f44ef275b546d7785b54de8a7",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime3_a/K31/clipped_gamma10/trajectory.csv",
+      "sha256": "de80a39b78443a9244233d89de286658ddb7da0eceeaec248d1677e59ea9acc1",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime3_a/K31/clipped_gamma100/trajectory.csv",
+      "sha256": "ef85f56ab3119e1e70c06b67bf0490257225adff2ba25ff9f85772a66719b0c1",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime3_a/K31/clipped_gamma5/trajectory.csv",
+      "sha256": "2f2e0085c79750fc9bc64f624fbab9f0bf5a6ef8dafa50751ddd30ff13e73dba",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime3_a/K31/clipped_gamma7/trajectory.csv",
+      "sha256": "aa5638c3f1cf7cf75f1b3e619b71ffc79c531d7c38c72c5a0636a5fd986c77a1",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime3_a/K31/mom/trajectory.csv",
+      "sha256": "c6f60807de9888d68f82842dcc093b067f1ea1f5428313710076d96f1d027b5b",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime3_a/K31/sgd/trajectory.csv",
+      "sha256": "9aa6d4d4b09341421a6548e95ace46c32c2c69055051b3b1f9d75dfec740eb07",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime3_a/K51/clipped_gamma1/trajectory.csv",
+      "sha256": "7a32ea8fcee5f52e195a1cb817ffd0fb2a61d0cda57bca580bc9b49460d5c8bb",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime3_a/K51/clipped_gamma10/trajectory.csv",
+      "sha256": "9af166696321e4f01a3369da54a059376488aa842778b6b4f46ff3144f87969b",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime3_a/K51/clipped_gamma100/trajectory.csv",
+      "sha256": "993361c78a49cfee01cb8ebb434cdedbb8bbae5b004b3278853a5e422c1893e8",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime3_a/K51/clipped_gamma5/trajectory.csv",
+      "sha256": "a444378743698d51ed2a117b5c6456368546eed5b909b01eca9adf220173a2a1",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime3_a/K51/clipped_gamma7/trajectory.csv",
+      "sha256": "62efc3a4be2deba2ea04f07bd65696e9eb90bdf5cb855bdd44ff64bed0e1f5b0",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime3_a/K51/mom/trajectory.csv",
+      "sha256": "231710688e398d55d3f8c4f6544e7f5f345609d6861175c4dcb5591b6304e7d4",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime3_a/K51/sgd/trajectory.csv",
+      "sha256": "ac25f187be4a749733197b14b9894d65d2c578d431a88f339dfc1bfc7244e2c5",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime3_b/K11/clipped_gamma1/trajectory.csv",
+      "sha256": "4ff165cd6ef742288640306a1d4e741b6f9df3e1a5d579a4a770eed224ac1ac2",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime3_b/K11/clipped_gamma10/trajectory.csv",
+      "sha256": "e9e675f8f09ebc5a728606c2c11eee45cf0ee4ff432b39bbcfb42891c858ab62",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime3_b/K11/clipped_gamma100/trajectory.csv",
+      "sha256": "133f209c00bd07d45497f58a1247f136c5308772b29f245a86de9e2329d9a91d",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime3_b/K11/clipped_gamma5/trajectory.csv",
+      "sha256": "4e446ce10879ee7c79ab65dfb181b63a60e73042a988b5eead831edd8ddc8489",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime3_b/K11/clipped_gamma7/trajectory.csv",
+      "sha256": "d352403111a75fb8e71a9023baa2d65305d68bd100d0c97c2e6c244eb883415f",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime3_b/K11/mom/trajectory.csv",
+      "sha256": "acb9efd13adbd8b250852fd3f1c86c4bca76aab5eba3dbee163240ed636a0f41",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime3_b/K11/sgd/trajectory.csv",
+      "sha256": "e2c282fe5fa6a62a3356f91556247f2a9e3217aec746a0bb080baf23d3030303",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime3_b/K31/clipped_gamma1/trajectory.csv",
+      "sha256": "6c594faefe16314058719b7739f731e3015d18a1099864244f8f6409dcad8f0c",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime3_b/K31/clipped_gamma10/trajectory.csv",
+      "sha256": "d9522a3fca74102ef1217a8ec12ea80e6d0b1f384c15934c87b98b497e8020b9",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime3_b/K31/clipped_gamma100/trajectory.csv",
+      "sha256": "5689b035c4fa617ad2899722371821a5858715942c932bd0aa032674a1398bd2",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime3_b/K31/clipped_gamma5/trajectory.csv",
+      "sha256": "d9e82feeca21eeefd1279896442b4512e063ef1ab09c0ebf4285ee32cf8f7e87",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime3_b/K31/clipped_gamma7/trajectory.csv",
+      "sha256": "674fc4f8cdb6a51b0fe912641cd39d28fda352838769e24d8e942f3d9bff14f3",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime3_b/K31/mom/trajectory.csv",
+      "sha256": "b86647d44f1f8b2bf04eff3c8f50ef8efa190d4eacd35466bef8927c844fdd8c",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime3_b/K31/sgd/trajectory.csv",
+      "sha256": "6e08d7a8a757e89202554377f52b9aae134676fa93ea5af638bd364573e5c134",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime3_b/K51/clipped_gamma1/trajectory.csv",
+      "sha256": "7c6c8b0c13e0c07a544d09b2ad26b816fa8242bb56b247fe36b53d72f1dddae5",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime3_b/K51/clipped_gamma10/trajectory.csv",
+      "sha256": "12ccb4230fd80a10b35f1f29c6e0618693f5eba9c92be50fd784692c9869b474",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime3_b/K51/clipped_gamma100/trajectory.csv",
+      "sha256": "71776f6d62cbc22a4795d0302bb43ee69346ba00330030af938b820a1ccce382",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime3_b/K51/clipped_gamma5/trajectory.csv",
+      "sha256": "a90dcfea15e2e4cb68f2f8d9a6718af6659ab1541cfa25409c538f8bf1cdd39f",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime3_b/K51/clipped_gamma7/trajectory.csv",
+      "sha256": "1bdbad703a79e47180bd09c0dbd58c724dd724d15906c1a4707d6921ceb94871",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime3_b/K51/mom/trajectory.csv",
+      "sha256": "372c4c9247b91460b10774c73bbcfc04c400d4a277eae444b1502f6ebf6d26df",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed0/raw/regime3_b/K51/sgd/trajectory.csv",
+      "sha256": "0471d1a236b328db2161341b51efcd2b337ad34d96a1be3d084cc90415e10420",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime1/K11/clipped_gamma1/trajectory.csv",
+      "sha256": "e8cac7b5187df1f1276e38b9544f5df048a94e26753732069762f530a68249c7",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime1/K11/clipped_gamma10/trajectory.csv",
+      "sha256": "40453db377a84c9df22a9285fdef41ec9dbd0957609ad2f03c0515612fc67b43",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime1/K11/clipped_gamma100/trajectory.csv",
+      "sha256": "f22fb75ac2d741641aee7ed269136e9fd3d4dc05b838984303725a38caed858a",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime1/K11/clipped_gamma5/trajectory.csv",
+      "sha256": "0c4b4e95e39f0f89c8b21feac794a0627456aab3c02d38f378fbe36f04a757ae",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime1/K11/clipped_gamma7/trajectory.csv",
+      "sha256": "d9da830d46984ee0a07d8fada791489bf61518f5688e8ecd46408b97a9458b2d",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime1/K11/mom/trajectory.csv",
+      "sha256": "61c28579a477c4086e3fd2f56b1f6f1678e9b7dc2e536971eea33ac0dab517be",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime1/K11/sgd/trajectory.csv",
+      "sha256": "65f259fe6b35626faf60acb51f569371048dad2250e33acd32440063963102d4",
+      "rows": 1156
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime1/K31/clipped_gamma1/trajectory.csv",
+      "sha256": "e52b536806e25428a20c5cb3ee35c9d4027a30f51af6f7de134d288ce9b5bdae",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime1/K31/clipped_gamma10/trajectory.csv",
+      "sha256": "9c3f36703b3503c42c090c6220a224657aed2c6f4aa241a941334a3f3641ea53",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime1/K31/clipped_gamma100/trajectory.csv",
+      "sha256": "ecac41805774d05a4fdca3dc05b30a8a09074ccc5df350ebd5b08b8172d19bde",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime1/K31/clipped_gamma5/trajectory.csv",
+      "sha256": "b7d69b7a74d7cdfdf7be4532cb27b2b1305091fee32069812591856f29538e63",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime1/K31/clipped_gamma7/trajectory.csv",
+      "sha256": "712cd2623f2b326e543661a4ca8e5f59550350e1cccc13864ea7bae96dade82c",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime1/K31/mom/trajectory.csv",
+      "sha256": "a33b17a61700366e9c6d10b31feb5fb9425f3164d19a77d95c6eb68969e31768",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime1/K31/sgd/trajectory.csv",
+      "sha256": "687330eade7b9b7c33d5258f68ce5ff5b82788ff56f1cdbc4e5d490a581918c8",
+      "rows": 624
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime1/K51/clipped_gamma1/trajectory.csv",
+      "sha256": "1c079e4add0c2cf00f12aa53cfbff2eb2e04349e423bd7f3cf178a4f60a6ae70",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime1/K51/clipped_gamma10/trajectory.csv",
+      "sha256": "a98d5f2d5f821e5f6828ec0afc28a15ce9754ce2e9e5546b5f4dfc7d7eb619a2",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime1/K51/clipped_gamma100/trajectory.csv",
+      "sha256": "de2dddb7204212834a1ae4e4d27d2ef60a1c470dc7cdc7378a08d3f0ec081487",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime1/K51/clipped_gamma5/trajectory.csv",
+      "sha256": "381cf8b1f2d1e676a96c0989c9e87f39ac11861c472cb7a23fb4f60e203ad853",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime1/K51/clipped_gamma7/trajectory.csv",
+      "sha256": "39b8a7f0261ac6d43c400c8276185fad81e4f7f1243fb21ccf338e208b8f38cb",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime1/K51/mom/trajectory.csv",
+      "sha256": "e34126603b4885cd73950c758ce57b4c24020bf4302147b9fad5ea340461a3f1",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime1/K51/sgd/trajectory.csv",
+      "sha256": "e393213188b5d61fd08a1323f54c6880d77e89ae20f224cc4026798e9ed9fe14",
+      "rows": 380
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime2/K11/clipped_gamma1/trajectory.csv",
+      "sha256": "7d9c71d81d4dd53e19c7e53011cbb68d0ff3b2fed3bafdf0475a979d4ccf5074",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime2/K11/clipped_gamma10/trajectory.csv",
+      "sha256": "6d96ddbb2f6ef9271c7b7a02de2127345f922f4f6581e0927dfedfb4b80eb582",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime2/K11/clipped_gamma100/trajectory.csv",
+      "sha256": "b63b250b28908d656a5e1d6b1100ced2d1e6cc4494b1388367b45bfb3f2bde97",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime2/K11/clipped_gamma5/trajectory.csv",
+      "sha256": "ad7449acbd7e986fcfdf3cca9c1d0ce32ce5d06d216b36e377117f507aaa64a0",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime2/K11/clipped_gamma7/trajectory.csv",
+      "sha256": "460eda9f23679374f8771f192af2d416b64118b398bb627dd97e9738d0c9f7c4",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime2/K11/mom/trajectory.csv",
+      "sha256": "0e9a38c0540aabeeda6f1aa7ad82cd9dcd7672adbeaf648cd3f92b84144584b0",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime2/K11/sgd/trajectory.csv",
+      "sha256": "e4415af88d2a605ba2f8a82eac972502530bf05220f63bf30ea988752e1f210f",
+      "rows": 1224
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime2/K31/clipped_gamma1/trajectory.csv",
+      "sha256": "4cca9059d127d62282e1f3c921e8f43692c01285cc59339fb2e7e3ebefc19fcd",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime2/K31/clipped_gamma10/trajectory.csv",
+      "sha256": "b87bb29c596871b19331a6da5bdb1949dbbea620c8dc43c1901e30d328fb94dd",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime2/K31/clipped_gamma100/trajectory.csv",
+      "sha256": "e03c7c1db355f64b5885c50ad0fbfd5e84627dd4bd32eb905c8acc3ddcdeb3a9",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime2/K31/clipped_gamma5/trajectory.csv",
+      "sha256": "2e823fff8f7127010f323e5e51b81976e95e2b4c428c863a51673320eab8be16",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime2/K31/clipped_gamma7/trajectory.csv",
+      "sha256": "fa14b879274ebbe10bef3469ec64308ce4bb09170f6d610b65d67ea27457b63b",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime2/K31/mom/trajectory.csv",
+      "sha256": "246891b770e064abeb17718214a5ea06ec007c9e03dcb9aef1bf8e776bd94773",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime2/K31/sgd/trajectory.csv",
+      "sha256": "dae23e38cc1b86e2759bb5340833fb50abab773e9c598e91c43c6670e278a626",
+      "rows": 405
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime2/K51/clipped_gamma1/trajectory.csv",
+      "sha256": "fb25ebcdbc61eb74d5e4b555817133351324308257d024646fb26bcf69246488",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime2/K51/clipped_gamma10/trajectory.csv",
+      "sha256": "675dd6c6ca4792c53d59381e5a8bc6f34973c486c3a4a54303f7788a755628b8",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime2/K51/clipped_gamma100/trajectory.csv",
+      "sha256": "9453e084b0b948c3c979046f7fa2ceb1b622903bf02f7cd718bfcba08e7814e0",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime2/K51/clipped_gamma5/trajectory.csv",
+      "sha256": "7d6b13e2030bdc81c62e8f2768b35b43d898065c634fb5d4fab9bdc0f0fe7d46",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime2/K51/clipped_gamma7/trajectory.csv",
+      "sha256": "81df38930e9fba3b78db4743b8163a55234904320b48f8552f7d26155733876d",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime2/K51/mom/trajectory.csv",
+      "sha256": "83e6de1a1180134908c4bbf08f81f2aa8497e6860aab2a4e3318e0a727445d1f",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime2/K51/sgd/trajectory.csv",
+      "sha256": "9c395d12ee5a6b87458e8f3747a22ff04e7546d5f1a59d332fdd788af4de71b2",
+      "rows": 247
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime3_a/K11/clipped_gamma1/trajectory.csv",
+      "sha256": "0a66fe9b44de840930ff9724fbed8b341419060b653620c4f9c2fafc0bf61a5d",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime3_a/K11/clipped_gamma10/trajectory.csv",
+      "sha256": "76e9ba10ae9d60e8d9f2691495650b34e6a73e6be28621be886569837b9e3be6",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime3_a/K11/clipped_gamma100/trajectory.csv",
+      "sha256": "72efa36ad7df083f07a279615b1c14a9bf7e04072650b70aa9cff85622d336ce",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime3_a/K11/clipped_gamma5/trajectory.csv",
+      "sha256": "9ec123108bb4c6fff178c39095398957cf8f7c40358f35eb4f20493729df7af0",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime3_a/K11/clipped_gamma7/trajectory.csv",
+      "sha256": "9a9be73804ba9b79f5ec0ed1e2deb510456dd008e7afac1f032891d47c35aac0",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime3_a/K11/mom/trajectory.csv",
+      "sha256": "4b2d2b4572774fc4ac40ef7a2b9f79f19174e17f9c6616a4a81359d56dce4c3e",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime3_a/K11/sgd/trajectory.csv",
+      "sha256": "3d2f67d6eaf3e8acbe8ccfffde8a60a5f04df8e2c7d72052bc0de84abec129c4",
+      "rows": 2048
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime3_a/K31/clipped_gamma1/trajectory.csv",
+      "sha256": "d104a250e005a7231a5dd2d9021afaac5ae53cc18b57b757c87a8aeec4572117",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime3_a/K31/clipped_gamma10/trajectory.csv",
+      "sha256": "a4abf4b16d6323333f46887ea48ef44caa7df6e1bc083a06a742a0d3f0a30c46",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime3_a/K31/clipped_gamma100/trajectory.csv",
+      "sha256": "d1aad4d108fbf49586b353078a165b42d4d17490e435396632a7911d504fe4ee",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime3_a/K31/clipped_gamma5/trajectory.csv",
+      "sha256": "a5afe88d94f5657b00cd4fb573cb392223032fc38a747cbc25e35a13beaf8a5a",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime3_a/K31/clipped_gamma7/trajectory.csv",
+      "sha256": "05098b437072fa137c997600b64183de2e17b92829380ff28fc4987438cca502",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime3_a/K31/mom/trajectory.csv",
+      "sha256": "9b3eece00e85205fa0e83aed9ab8d43c499ff83bae43b3be8fef73d4a647f398",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime3_a/K31/sgd/trajectory.csv",
+      "sha256": "a34f9604aa982188aac3b10abc01a4ed6eab801405dacdd38941b2ac50de2cb3",
+      "rows": 413
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime3_a/K51/clipped_gamma1/trajectory.csv",
+      "sha256": "6b73130433dc6e5ed6f3e9dd0dd458e0aadc7b88d2f5e73d4cf6a75acfebe9c7",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime3_a/K51/clipped_gamma10/trajectory.csv",
+      "sha256": "2570652e4582bc8e82488f40767ade3678aa81ffa1dea721e49f3039e6ee8a97",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime3_a/K51/clipped_gamma100/trajectory.csv",
+      "sha256": "3141edb4c9368c14c15023427bafe94c38f04ba61bae9287cf543f5607aed6b9",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime3_a/K51/clipped_gamma5/trajectory.csv",
+      "sha256": "b8dc84b7b74b14e3995d84df875c99c478a85a867d2c5e95fae6ab3b6162318e",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime3_a/K51/clipped_gamma7/trajectory.csv",
+      "sha256": "60f10ede966ac5974cecb25539b55c0c3d11d330df39eae85d9dd10220dc6a75",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime3_a/K51/mom/trajectory.csv",
+      "sha256": "933039c34787a1f95846935559d7d1279f0cef73deb000730c04a1532a8dc5fe",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime3_a/K51/sgd/trajectory.csv",
+      "sha256": "ba863d8436f987647a843fbc068a506a18dac2089b549bd50f4e7bbbf1fe2c3d",
+      "rows": 252
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime3_b/K11/clipped_gamma1/trajectory.csv",
+      "sha256": "cb7f6a9a9de886e6a8dcc40f04579067851f654738020574eb128ea0955880de",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime3_b/K11/clipped_gamma10/trajectory.csv",
+      "sha256": "9caddf5827a3c825b749c7b576cc3a115fcf0f49e018dc3bcafad8cbbb880cd9",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime3_b/K11/clipped_gamma100/trajectory.csv",
+      "sha256": "0dc64bf3a77b45a4cc8db6c3a309672c51a2bb65cb0bc1c1afdbf7c9846fc264",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime3_b/K11/clipped_gamma5/trajectory.csv",
+      "sha256": "fef743fff77d080fd6d0d0a193c2270f8b2e4075af520bd199217d80181ca78d",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime3_b/K11/clipped_gamma7/trajectory.csv",
+      "sha256": "658a95689df0f9e3d852bd1508502e9726c28e0ded62970e04a08ba6dd93be9e",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime3_b/K11/mom/trajectory.csv",
+      "sha256": "bcd65cdcf9ea8f43b7c08dd9f36f8072c3fe6ad5ed68c01a7bae6f6a0b4f5c78",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime3_b/K11/sgd/trajectory.csv",
+      "sha256": "38c0dbd049ff6d49d8fb8e13c660b4454097d320fe4657a70c34b9bde4f62d47",
+      "rows": 2048
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime3_b/K31/clipped_gamma1/trajectory.csv",
+      "sha256": "6e7b529894dae64fffd099968ca27a8c5eec3909ba66a81a92df126d4b8a2115",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime3_b/K31/clipped_gamma10/trajectory.csv",
+      "sha256": "73f07e3b791e1ad473d2aa3accf4fad98b651b5a613932f35356fef93dd67416",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime3_b/K31/clipped_gamma100/trajectory.csv",
+      "sha256": "a4401afcafbf2f4d21ff877c151488aa460531a5137691237d8f8491d13b81ad",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime3_b/K31/clipped_gamma5/trajectory.csv",
+      "sha256": "af8a0e80558b0bbb4ca6a4971d13e47079a3a4a6a2c6754d1ceeee3ff6c7152c",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime3_b/K31/clipped_gamma7/trajectory.csv",
+      "sha256": "b047afc8ae1ddce28e15f41b793be3763e883415d01f0729cde649d07e21b97b",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime3_b/K31/mom/trajectory.csv",
+      "sha256": "188713179a4885769c40c3ddceefc408365ecaf019a5d07b017890816e48f7fc",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime3_b/K31/sgd/trajectory.csv",
+      "sha256": "86eeaa1b35f93a02307f820b57c7f29da29abec6ad8ac77390d3aa70a879cb46",
+      "rows": 413
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime3_b/K51/clipped_gamma1/trajectory.csv",
+      "sha256": "3b1c58427134ae2352a249dbf01796ab1e815ce97455ea4a59879c72c2ca5109",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime3_b/K51/clipped_gamma10/trajectory.csv",
+      "sha256": "a81c853d6ffcc17f612ac92b69923075a221286d5a598b1b4b69a054400fc23f",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime3_b/K51/clipped_gamma100/trajectory.csv",
+      "sha256": "3bbaf59f521013c3beff8c84be13e6907f7827351becec9b0b35b174c6d9d980",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime3_b/K51/clipped_gamma5/trajectory.csv",
+      "sha256": "5f808a17c14d7d1975098c3d85aa3df500ea84d35d7211a0f22fae9825520454",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime3_b/K51/clipped_gamma7/trajectory.csv",
+      "sha256": "f7d6f7c4a06a0f63df0ce32910d78153c7560aec2359c9dfb3a2fa1b7efa9dc9",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime3_b/K51/mom/trajectory.csv",
+      "sha256": "5bb89529a79652f721f94af29e61eb5b11c261afda1656fc945534f458ed9c86",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed1/raw/regime3_b/K51/sgd/trajectory.csv",
+      "sha256": "08916b276a24b61406af7f5517a0f439e931bdc82ec49dc79c467a77d661edaa",
+      "rows": 252
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime1/K11/clipped_gamma1/trajectory.csv",
+      "sha256": "e3ebe1761b5951d97747ff2537902731f8682af1a9dbf7524d471a8229de77df",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime1/K11/clipped_gamma10/trajectory.csv",
+      "sha256": "acc6de707d5e636d8814c6db89b7b0d92850802896a82d6ea05f133a4003d0d3",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime1/K11/clipped_gamma100/trajectory.csv",
+      "sha256": "8ccf48ecbedf9099b4b712ac856e5f1c2aa40a895b504ea07149a96f4076cb0f",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime1/K11/clipped_gamma5/trajectory.csv",
+      "sha256": "69206657f22b61c43c2d3e0637e291bdee02a7073c81c94d604f63e7b5218bd2",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime1/K11/clipped_gamma7/trajectory.csv",
+      "sha256": "045f19b78455f55130f7f0ff91514917d244fd3a14c1e1b1965b66a37162d136",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime1/K11/mom/trajectory.csv",
+      "sha256": "858cb08ea1d79feefe60ddc2fa1ea9d45377dc7d3e1726a5fb374824c9a7b81d",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime1/K11/sgd/trajectory.csv",
+      "sha256": "002e5514bbf840b881145b543b22a8801457be82506e667bc486d884286ec473",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime1/K31/clipped_gamma1/trajectory.csv",
+      "sha256": "c76253cc024b2058c692a8f6a02735c95682a88a752550cbe830756dbe507c67",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime1/K31/clipped_gamma10/trajectory.csv",
+      "sha256": "e79ad4f658ec29b096ddf07d78f325ade4ed3b185c832fdd1b4da52fee8ee790",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime1/K31/clipped_gamma100/trajectory.csv",
+      "sha256": "683b1f2b55f0629f245c8f0b74dd105066a06b3f4e08e4d3c082a5620173280e",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime1/K31/clipped_gamma5/trajectory.csv",
+      "sha256": "70c97e2ebfeb40d096030699a07cfea7c55b0047f6826e579e50cfd192efa466",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime1/K31/clipped_gamma7/trajectory.csv",
+      "sha256": "5e8b379db05934ddbb2ef569163733417f0e8dfad9935b4c395e74a3e1859d97",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime1/K31/mom/trajectory.csv",
+      "sha256": "2441cb300b6f1f0ede8b68c71ae5bcc50fe3beb8b8aed1c833e902fd31262084",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime1/K31/sgd/trajectory.csv",
+      "sha256": "27833c285fab2017b782a2c3d2b3aee89ed4edcc2b955689eadb88449710e867",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime1/K51/clipped_gamma1/trajectory.csv",
+      "sha256": "b0615989dd3cbb3234c92aab212f750640baa63661050c16b252e9a028af2410",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime1/K51/clipped_gamma10/trajectory.csv",
+      "sha256": "8ff917ff7d6423860c64858039f2f828124573c272615d3835f0bc00aeb577c1",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime1/K51/clipped_gamma100/trajectory.csv",
+      "sha256": "90f0711c192c49e5a2211062f38747ff59adeeea9c4a526f8658494c745844a4",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime1/K51/clipped_gamma5/trajectory.csv",
+      "sha256": "79089267d37231cd28ce98a57179dda105cd2f787b15c3a9684793be404fa38f",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime1/K51/clipped_gamma7/trajectory.csv",
+      "sha256": "2412c1d9a78079a2263ce28a8a51d6af2934f58018a34a9cf37fab9d1af765bd",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime1/K51/mom/trajectory.csv",
+      "sha256": "272e1269d322df2dc9bb629a9201849915fcf3ca980b402a585d0d8a7aeaddf2",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime1/K51/sgd/trajectory.csv",
+      "sha256": "d4ea5f130cf78a8c0fafa8ddd1e0088192936503e9a6519a6b936638184f70cb",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime2/K11/clipped_gamma1/trajectory.csv",
+      "sha256": "613f649e7bf7bbd38a7ab97736e9a06846488260e6bcc556c6dd21e62c607637",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime2/K11/clipped_gamma10/trajectory.csv",
+      "sha256": "f951221fa45540c945301cd695aef9db39338598173168c247d2366c8b0365bf",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime2/K11/clipped_gamma100/trajectory.csv",
+      "sha256": "8854eb529973b71de122b7d6d8af097739dacf5dfd00867b5279c107d72cc2d5",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime2/K11/clipped_gamma5/trajectory.csv",
+      "sha256": "4308c1642f89a25202e876414dccd85ece78f1685a4d3940cff02903e498cb77",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime2/K11/clipped_gamma7/trajectory.csv",
+      "sha256": "269a2cd694015ecde5c030ca88383d73decff6c13793ec9f60c572690a139ff1",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime2/K11/mom/trajectory.csv",
+      "sha256": "1f50747eae81c3736873cbd1e87ddc01ea9ffbf13fa6b3413ea92b7f4b01cb0a",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime2/K11/sgd/trajectory.csv",
+      "sha256": "0f24e384ca7ffe2a1adbd257f0f0bbdfa340bc7a727b5802f378a21489c65b03",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime2/K31/clipped_gamma1/trajectory.csv",
+      "sha256": "0d0f4823ffad234321adb1a94f436c7f5ce6c201db28e7123b1b246002ffb049",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime2/K31/clipped_gamma10/trajectory.csv",
+      "sha256": "f018953615bb17f4b69351184c701cc3721b2d73164402c937b87cbe91769dcc",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime2/K31/clipped_gamma100/trajectory.csv",
+      "sha256": "3abb21b8fa2240a95b88724a22995d3e57b55a9a7e9b72ee8f2afa02d2f52fc1",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime2/K31/clipped_gamma5/trajectory.csv",
+      "sha256": "f9a915671b281e02341c6176b88ed47ad0172b8366fbd4159a409808e1294f9f",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime2/K31/clipped_gamma7/trajectory.csv",
+      "sha256": "533180e68a1b29d184f0bd16796e84d44a789768727c026436bd0e29396824e8",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime2/K31/mom/trajectory.csv",
+      "sha256": "edc79a9c04bafd3a155af4dea483b4f4fd57d5ea9fca6764a9c8e998cd5d2a89",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime2/K31/sgd/trajectory.csv",
+      "sha256": "870a98261a411c4a53d8bb101e7c8b525620aae6e7c2fc86ea54f3a372b1b885",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime2/K51/clipped_gamma1/trajectory.csv",
+      "sha256": "61acb0f7a2d1fa6577a4267bb91cd6f859e31d6373f54c4cfb6259bd4a3d65c4",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime2/K51/clipped_gamma10/trajectory.csv",
+      "sha256": "5cd58a4ba8a2419d81c5e0cb8ce54edca791ba3abfadd2ce9daaae4d93b16338",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime2/K51/clipped_gamma100/trajectory.csv",
+      "sha256": "d99deca88fceea64314448fe8eba88ab2a0dbb5d3f4f84271054990367cd523d",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime2/K51/clipped_gamma5/trajectory.csv",
+      "sha256": "b6126afa8da266ecad8fd8d90bd5404496e64b281ec40f4192a7335f3cf2f3cf",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime2/K51/clipped_gamma7/trajectory.csv",
+      "sha256": "4db4e6995841ed247281a38f12da615f8d23ddb40f6e2016611b94b7123ec92e",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime2/K51/mom/trajectory.csv",
+      "sha256": "8f910c27fb41975dfc9ce8a0ae806f20cee45c6406b1be85c6289b27716015f0",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime2/K51/sgd/trajectory.csv",
+      "sha256": "061a4cff9cedcf11fb3d4661fa56f8d9303ac66b402a212cf0d348f86fc0f2c7",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime3_a/K11/clipped_gamma1/trajectory.csv",
+      "sha256": "a84caafb901070305243777415919ef0d3288b69daa46ed081630912c7ef20ac",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime3_a/K11/clipped_gamma10/trajectory.csv",
+      "sha256": "e3ee8b9e49911b2472af9f3790272b1f77137563a2bd4dae29a20c49e658a738",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime3_a/K11/clipped_gamma100/trajectory.csv",
+      "sha256": "2f4d68926de6713deeb960837e83fc094420a4c1e0a9c57c604ddcf594db5d60",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime3_a/K11/clipped_gamma5/trajectory.csv",
+      "sha256": "3da1320e04646cba871c96260e27a374ff8090ccbdc6499c9ea13213e81052ff",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime3_a/K11/clipped_gamma7/trajectory.csv",
+      "sha256": "fcb319e0160dbef6a7fce24001023de6e81c9a8cd731084d83413302af490f3a",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime3_a/K11/mom/trajectory.csv",
+      "sha256": "6c008d36a4b551e5fa3d4c23cf63dc1a7340c3bdf5f270309951d80a959ff361",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime3_a/K11/sgd/trajectory.csv",
+      "sha256": "4262e9c5a3ffd5ce48c726039cbc0462f1861dac17b3d2dfa408645cccab522d",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime3_a/K31/clipped_gamma1/trajectory.csv",
+      "sha256": "2988e8f401a2f783e13e389ace5787f71e127b6a755843b33fa1fc3d2d05ee5c",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime3_a/K31/clipped_gamma10/trajectory.csv",
+      "sha256": "a330add0834e6a1264b51fc37c012ba64b4585c6ccd32eb647c403694055ba51",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime3_a/K31/clipped_gamma100/trajectory.csv",
+      "sha256": "861d2af12569538d6817d4090e592c935a9167ee1c3381e2cffdbbfb4ebfc3f8",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime3_a/K31/clipped_gamma5/trajectory.csv",
+      "sha256": "f6ee1089854b273448e28f34e046c12f08226d5cb0cbbe44e92511c1cb7ddf34",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime3_a/K31/clipped_gamma7/trajectory.csv",
+      "sha256": "fc2dcfd7faacff36abcaac8271f22fa088ea17f88ce42d39bc37f8cf72f18895",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime3_a/K31/mom/trajectory.csv",
+      "sha256": "63a1bcd796f1a9f26da15b1b7590015c7637d0f6aaca15a402728debb42c1996",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime3_a/K31/sgd/trajectory.csv",
+      "sha256": "77e32b0ab3142fc2f2a0ffb3d479ef26e00a362dca62de92f2552c6e9813ee02",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime3_a/K51/clipped_gamma1/trajectory.csv",
+      "sha256": "1739a67a3b9181373fc808a4fc012f2d4b02576c3de20cc621e7b29bf9b814d8",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime3_a/K51/clipped_gamma10/trajectory.csv",
+      "sha256": "7a9f51331eb3546015e44ee6ee120e654918adf35d5a44bc19278d23fd33c4ad",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime3_a/K51/clipped_gamma100/trajectory.csv",
+      "sha256": "9eace8d6ef3818de35dd77241b690f45c871b2e076373f24c7d0757c0a004493",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime3_a/K51/clipped_gamma5/trajectory.csv",
+      "sha256": "7037aed2399d2da4a7a62bfe11e972ca5137b2c000aea4d30f3c6c8fb5700f43",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime3_a/K51/clipped_gamma7/trajectory.csv",
+      "sha256": "972045d7c680e3fa09def1747df43242284e4ba9a521018a3776a9cb1ceae453",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime3_a/K51/mom/trajectory.csv",
+      "sha256": "22b7c71489189619e7925109565d5e32f74d6050d58533d9dab40f5b26466f24",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime3_a/K51/sgd/trajectory.csv",
+      "sha256": "0cda3101920b96a91b91cbbb3a0671633db9de1f3d6bc745a526821bb4a2ed71",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime3_b/K11/clipped_gamma1/trajectory.csv",
+      "sha256": "522e3ab7cc4e7d9a3817377251df3e946f4f2c227c35191d6f27f018c5c2cb1f",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime3_b/K11/clipped_gamma10/trajectory.csv",
+      "sha256": "445cdd25a77a21f6262005733dc787273d3c34928d4a8c84522fec6c026a52f4",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime3_b/K11/clipped_gamma100/trajectory.csv",
+      "sha256": "36b653cc80f298eb5196c1c228618ad5f39037dda8f3f6e9bdde5800a94da9f2",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime3_b/K11/clipped_gamma5/trajectory.csv",
+      "sha256": "bde6651f1b32c4faa9ef34002e2cce037144e2d2cb747d3f786d05007dcfd430",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime3_b/K11/clipped_gamma7/trajectory.csv",
+      "sha256": "77f3cbcb548631b27e69b460daa55481541690a4141ee75a49f8736b7c44478b",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime3_b/K11/mom/trajectory.csv",
+      "sha256": "d179b82d718c1c4b01530b57733f2d58085cf34c3d19ec51403008f20c25d60a",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime3_b/K11/sgd/trajectory.csv",
+      "sha256": "90bfb2dc7c40eb81869aedf2ce1ae0a8f694b9a600f55ba224b1574a88a1d38f",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime3_b/K31/clipped_gamma1/trajectory.csv",
+      "sha256": "b7770c7ef060427dcfdf003fa5289049a2ecaf13f2f48cec51a17bb6e8a154f0",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime3_b/K31/clipped_gamma10/trajectory.csv",
+      "sha256": "77dc49620ab5cc621de1e45276f8ec404d4c78e15ccdc6113d10d179bcd0f987",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime3_b/K31/clipped_gamma100/trajectory.csv",
+      "sha256": "4c05db092f39803833ef8859765b09727a0894425852af14144228a0a3f314d6",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime3_b/K31/clipped_gamma5/trajectory.csv",
+      "sha256": "fea90778a30cf61d067d9b437b91e000cd536c52a9e4415911623522bda474cf",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime3_b/K31/clipped_gamma7/trajectory.csv",
+      "sha256": "d904bc387aa624c65c404aeb57faa58930ca2d5705587da2c6aa901a52692af2",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime3_b/K31/mom/trajectory.csv",
+      "sha256": "aaf72cd2e16ae40136bded9d4bc5fc015ae70ced98fce55344898ad21f2965a5",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime3_b/K31/sgd/trajectory.csv",
+      "sha256": "668afa61f716c65e63928d70de9d260b24b49df8cd69e2932c640b222b131db6",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime3_b/K51/clipped_gamma1/trajectory.csv",
+      "sha256": "ca9949e1fb2e1d14f55880563e052999f4860ec828e0c009673da3c8debd3098",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime3_b/K51/clipped_gamma10/trajectory.csv",
+      "sha256": "8c7676d7f6198ba762e57ddbf0c5f1822872759a03b5b351ccbab4a90a16ad50",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime3_b/K51/clipped_gamma100/trajectory.csv",
+      "sha256": "d1de0f5348bcbccb4f53558a744ddf42611bffc3308e1e3f1181164c09d4b168",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime3_b/K51/clipped_gamma5/trajectory.csv",
+      "sha256": "f2e04bd53b4e91e78189c4e0241dba3e092dc4526a05406d8d9a7574577248c6",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime3_b/K51/clipped_gamma7/trajectory.csv",
+      "sha256": "9013d2b9cc920bf593cbaaa10181c517123771003b1aa41dfe6c185ba8a0069e",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime3_b/K51/mom/trajectory.csv",
+      "sha256": "539ea2d6154f3604fcf0d23e1b191798ceb207d2ecea5e04564001409ae5aaf1",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed2/raw/regime3_b/K51/sgd/trajectory.csv",
+      "sha256": "3f42ecd553e9bfde010ba9c6448af5720416559380c51c7351543da9856b890f",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime1/K11/clipped_gamma1/trajectory.csv",
+      "sha256": "4aaf4d27bb3167ba6223aeeab91a3a440bca3fd7b0c38c07f338b63e5759fdbc",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime1/K11/clipped_gamma10/trajectory.csv",
+      "sha256": "e610c388361b2e2cdbe4b17c7089e735cda54ff82b6f9defee213bab4254b798",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime1/K11/clipped_gamma100/trajectory.csv",
+      "sha256": "785e4ac5f403e94a7af62c92bc0729d0f5f949fff14e42751e45d0dceb724c91",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime1/K11/clipped_gamma5/trajectory.csv",
+      "sha256": "f352d96a84a943c8e413d3498ffb4748015ee9cd717fbe31382bb69db5f2040f",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime1/K11/clipped_gamma7/trajectory.csv",
+      "sha256": "5ebe57faa4e7bdfd37f4710f3b064add3e0df8b24b24611d7c7a00cc6a55c90d",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime1/K11/mom/trajectory.csv",
+      "sha256": "423d325f335327369689e76722d7a8ee62d11c3064b9999d9f497b3b184d50bc",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime1/K11/sgd/trajectory.csv",
+      "sha256": "1de8de36eea20621fb1431df3865507c9c16f4cda97bd2af2d878d7b7bdc3c0d",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime1/K31/clipped_gamma1/trajectory.csv",
+      "sha256": "f2586216de3a9cd3bc5a22b019493de00188440f41f7300252102a12e88b2950",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime1/K31/clipped_gamma10/trajectory.csv",
+      "sha256": "43273a4a6e16364be83fcdb7560b777d68a5bec1a16b9b26f2be6f1b465985b3",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime1/K31/clipped_gamma100/trajectory.csv",
+      "sha256": "c2f5cfd02016a5f14315c8d77420b24fe9ae0a55854952d3ec97b32cd5d0b256",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime1/K31/clipped_gamma5/trajectory.csv",
+      "sha256": "ec44ca7df771e0e5b84e3b06dce51213edabdff4bf16363a3d71f4d1dad53fb6",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime1/K31/clipped_gamma7/trajectory.csv",
+      "sha256": "c525a31f4ee32a38c6dee0d7b20034276bdbd873a835a94db0915b0175464414",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime1/K31/mom/trajectory.csv",
+      "sha256": "7c3c6482efdc139ef75e0364b48628fb767e8e933a30f3d4600b7c6a1f667c56",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime1/K31/sgd/trajectory.csv",
+      "sha256": "750dc025ba84e362e428a236f9a4f73420871a0b2cfd078cb1b678b4af660fab",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime1/K51/clipped_gamma1/trajectory.csv",
+      "sha256": "5e5531682d2ad793dc46777b35217fe1629ea29c0ac19fddfffc3aaea80a7b02",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime1/K51/clipped_gamma10/trajectory.csv",
+      "sha256": "16193b8d21f74d1b3edd5611c2ee326f0b3fd367c311c3d09d7c24afe18c4739",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime1/K51/clipped_gamma100/trajectory.csv",
+      "sha256": "1823cc2fc3cf1c9a10c55f0834d46b8bd1f46c615a44277c135c119e9db12c68",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime1/K51/clipped_gamma5/trajectory.csv",
+      "sha256": "79853c9e43d0d9953c9187510732ef25695f8348db02e7ed0583bf7b6a275067",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime1/K51/clipped_gamma7/trajectory.csv",
+      "sha256": "d24c1f6d7d2c6901739022da035c47e6c66e44b294e75014057c4731ec317f3b",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime1/K51/mom/trajectory.csv",
+      "sha256": "64bbacee3b02635b2f51cf1dc2a4bec26a7ab80de141ca3276824465a7edf5df",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime1/K51/sgd/trajectory.csv",
+      "sha256": "5cdb6848ff0afb638ea0ef2689673a054e9cd193e176b3bee6b15db5ef0465d2",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime2/K11/clipped_gamma1/trajectory.csv",
+      "sha256": "6387bd9d654b428c63110cbb370d8b9e68debbf4911bd92810b759d2f37b2839",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime2/K11/clipped_gamma10/trajectory.csv",
+      "sha256": "5b628e8e9157d7d49e5a7d4b237fd7b55d48b4e41055d02718a421b719042469",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime2/K11/clipped_gamma100/trajectory.csv",
+      "sha256": "21fdb5920c0904d2de3378ad3abe2808a7647a293c901f257233983fbbd7e900",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime2/K11/clipped_gamma5/trajectory.csv",
+      "sha256": "f81ab1d74bcf5d8259129630f01ab97eaba5e4c4edbbf4c87846b530fb5ea0e0",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime2/K11/clipped_gamma7/trajectory.csv",
+      "sha256": "6f4447214ab7c18c8e8277a472871db2ca1135a4e7324199bc8455c1150b65b1",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime2/K11/mom/trajectory.csv",
+      "sha256": "c07482e06ebefa4fb1282f08192df07d96e22140da6892aa6a8a754f47e1f2bd",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime2/K11/sgd/trajectory.csv",
+      "sha256": "a6e2048721139f768d0211408b06dec49f4d54b96e213f659a129306c0a10f95",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime2/K31/clipped_gamma1/trajectory.csv",
+      "sha256": "2c0a74d973a061ece3d3ab05e3fbb5bed3b7de3ecab8c8f8505f41c67910b27f",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime2/K31/clipped_gamma10/trajectory.csv",
+      "sha256": "d70711770bff424c32e8e4d6b3475fe1d1ca9734281f8767107db4a0814b38a8",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime2/K31/clipped_gamma100/trajectory.csv",
+      "sha256": "052d347654b265242768d00e1408178bc0eac6a99b194e05650aa02d49692130",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime2/K31/clipped_gamma5/trajectory.csv",
+      "sha256": "7b620bdee646d5296c2a4d7e6804df841e125a8bbd7b08b15d334644eabbc1ca",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime2/K31/clipped_gamma7/trajectory.csv",
+      "sha256": "29b4dc2413428f5714c65f67870516ce89f269631f5d5e2e0d8fe1758d4e186b",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime2/K31/mom/trajectory.csv",
+      "sha256": "56b6973ccc59691e06e47a044b9422cc12cfb2748e8d3a6bbecc33d4e380b79d",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime2/K31/sgd/trajectory.csv",
+      "sha256": "e1e7403b34462385985fa06452365902f204bb2ccfc2d6c42bb966d160bb9936",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime2/K51/clipped_gamma1/trajectory.csv",
+      "sha256": "76a500628d58638d04436ad6d7be75519155c9012fb10d7667d3985891a45226",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime2/K51/clipped_gamma10/trajectory.csv",
+      "sha256": "1fe8bfe0d64241fe361d37c41f0787db0f24b2a36ad4b6a9344cc0b61ea9dd1a",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime2/K51/clipped_gamma100/trajectory.csv",
+      "sha256": "ce474571c4b7200254fa87d22324986bdf8515d695e5249ed54b58b1463565ce",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime2/K51/clipped_gamma5/trajectory.csv",
+      "sha256": "4ef9077e20443beaf52c09614eff604fe703e458d704c5f2920cbfd680182f63",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime2/K51/clipped_gamma7/trajectory.csv",
+      "sha256": "8eb407ee7e8d90b3c61392e43b503bb32be81aefffbc7e8278d173d823a8a172",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime2/K51/mom/trajectory.csv",
+      "sha256": "730b339e4717cbf31d6b1cc73daa3e50db668ff5248fb2b4ad9f98ace479af43",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime2/K51/sgd/trajectory.csv",
+      "sha256": "6be1c3d3d3be9e2db357ce501d2e4d39ead01c0130ea697faa7fce31a8e21fcb",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime3_a/K11/clipped_gamma1/trajectory.csv",
+      "sha256": "75233cde6f7be645f687971341e7ea9db3bdb0f1859ecf28df8611fce2139af3",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime3_a/K11/clipped_gamma10/trajectory.csv",
+      "sha256": "70b3631c0d74bf12251b9a3b5a30f51df39058476dbb1b4e08f36172a2c029e8",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime3_a/K11/clipped_gamma100/trajectory.csv",
+      "sha256": "62a5892d067732da344a1831d436cd05dc19787dd34de9f8de41ca8c8bd653ab",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime3_a/K11/clipped_gamma5/trajectory.csv",
+      "sha256": "91164684e3226cde25f729c2d619ff2b80f09d3d79e5406cc12f5d692bf4f109",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime3_a/K11/clipped_gamma7/trajectory.csv",
+      "sha256": "ee0adca08bb92ce38b453cb95fc41b2f43078195f614e2bae684d6737f108d73",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime3_a/K11/mom/trajectory.csv",
+      "sha256": "90735041e34a2be6afdae64aa6059c419e465b75b493a8da56850542007a0e2e",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime3_a/K11/sgd/trajectory.csv",
+      "sha256": "ef5430e14c8e323d984b887cbd85621b34685df4f97135724522a7b2904644b8",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime3_a/K31/clipped_gamma1/trajectory.csv",
+      "sha256": "9b18bb13bd8a4a02129ee3fc02ef66a5817cfbbf1d00bed2a0c580ef6c43bbd8",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime3_a/K31/clipped_gamma10/trajectory.csv",
+      "sha256": "1ac2479a42c1de6966e65fd4964657608cfbf08f3fd335e3e72734b6bbcd3310",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime3_a/K31/clipped_gamma100/trajectory.csv",
+      "sha256": "def5f576d3b96aa538cf9d786dadb701f10938ae1bdea95fb8c44073d7e035de",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime3_a/K31/clipped_gamma5/trajectory.csv",
+      "sha256": "8a771460158ae6bc4e3eded6ab5a1461caf0a3948fc66c023cd17588db128e26",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime3_a/K31/clipped_gamma7/trajectory.csv",
+      "sha256": "a9e7ed08e262c7d7ec364af660529c91d72335a950ba140aa8a902c458eeed07",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime3_a/K31/mom/trajectory.csv",
+      "sha256": "07b09a563748d24a3aa0ca0f4562ad7f046698e0aa321ad06f302a681e6744ae",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime3_a/K31/sgd/trajectory.csv",
+      "sha256": "d0d0b17a04c987bef3495f2e794aed9ecd89631c26cc25cc3993ba38a4adb1fb",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime3_a/K51/clipped_gamma1/trajectory.csv",
+      "sha256": "52a92c00eaba6263c4ac092fc68927824ed24456bafff22b86ffaac69c1e0978",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime3_a/K51/clipped_gamma10/trajectory.csv",
+      "sha256": "e3b7e78009dbb0e6fdca7127ea58cdde47bea3fc7f4bd8539e7646951bfa8bdb",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime3_a/K51/clipped_gamma100/trajectory.csv",
+      "sha256": "3f6be5ebca199fa9b40a877795961509bbf84d8ab17bce5ffc9d271c05e97d68",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime3_a/K51/clipped_gamma5/trajectory.csv",
+      "sha256": "44d36a561fd8a857c162eec06801a5bc0d013629382780f1bea7792728315da9",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime3_a/K51/clipped_gamma7/trajectory.csv",
+      "sha256": "e6ad8d26007369ee1b7b5ee63a71425c9da08633b6807d40bff18f436be2cf4f",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime3_a/K51/mom/trajectory.csv",
+      "sha256": "5c0e8276a5662509512068c6cf16f0929fca2d56f2504a04fba97f16566744fa",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime3_a/K51/sgd/trajectory.csv",
+      "sha256": "d846ebb80bbf7cf7124121318ceddb35a0b3600ca9c076394502c7d23210c67f",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime3_b/K11/clipped_gamma1/trajectory.csv",
+      "sha256": "5eba76ec78a9f97c10328145e8bd080951a197e5d3553da502009cc955f2aeb8",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime3_b/K11/clipped_gamma10/trajectory.csv",
+      "sha256": "3857cb5fb05f445e285b26d142d077b9d50b84283e5c189a29cb25d1ef29eb99",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime3_b/K11/clipped_gamma100/trajectory.csv",
+      "sha256": "7a6ae0d7085d40bc4f6a683b13e2be90712fe0f442c22b527af1674b11cce747",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime3_b/K11/clipped_gamma5/trajectory.csv",
+      "sha256": "f3a1f8eccc707167474aa1b5d8108ff0f2067a1be63b8dfef6be8571d33055be",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime3_b/K11/clipped_gamma7/trajectory.csv",
+      "sha256": "157bfef8bd2321435a28759906ce0402d8ce556bdac0b26bcfa4ccac400f4270",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime3_b/K11/mom/trajectory.csv",
+      "sha256": "f891fa30cd25d2e8a629fbaa39f635b5d423400fde9351bcb2741bb48271423b",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime3_b/K11/sgd/trajectory.csv",
+      "sha256": "5b7dce76bf3c5ae526832cef853d93ab9f68ab3aaebd0c397f0c1c79aa5782f4",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime3_b/K31/clipped_gamma1/trajectory.csv",
+      "sha256": "b8abac3205203439cdd833af62d15ca87069081a5fe1256bb30959910f6b4b24",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime3_b/K31/clipped_gamma10/trajectory.csv",
+      "sha256": "0b36e50702db7740ac9c96f16911cd4beebca2322d8457241453eaded667dee8",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime3_b/K31/clipped_gamma100/trajectory.csv",
+      "sha256": "f293853710918496d3d6f7b9c217dff0edae42238e1f170452b18e34d7add1e5",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime3_b/K31/clipped_gamma5/trajectory.csv",
+      "sha256": "26f8c345c1a12a06be55cdbf24a78cdebdfb1d69a89e2190d1d064e150ada1d0",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime3_b/K31/clipped_gamma7/trajectory.csv",
+      "sha256": "5b6666f9b44c7bdf4832e5a06e635333ca7fc4fe540f512f866ddd3f2ee64c70",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime3_b/K31/mom/trajectory.csv",
+      "sha256": "649f8fcda94f47ed055d4aedabbdcc1b1ad04b0ddd98a827891f31232365cbaf",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime3_b/K31/sgd/trajectory.csv",
+      "sha256": "7f27a2010296ee35009789a070d2c15a18f0ad5dad34afa3f6c6310aff634d9a",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime3_b/K51/clipped_gamma1/trajectory.csv",
+      "sha256": "cce415b34f2e69e49055cea0e10210ea4fc601a53d508d8527e7892ccc257d0e",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime3_b/K51/clipped_gamma10/trajectory.csv",
+      "sha256": "0bc98d54dd7510d02c9a500e49bc4c10a3932d6216f71dfde4952088337e6e05",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime3_b/K51/clipped_gamma100/trajectory.csv",
+      "sha256": "12dd00df2e7b4352f9e6adedac632336b092f0a8c976314eb89f27a1ff14afa8",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime3_b/K51/clipped_gamma5/trajectory.csv",
+      "sha256": "8a16f56cfcc86e783802c7912ee93f2e0bbd7289b99a06211d2736b897285919",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime3_b/K51/clipped_gamma7/trajectory.csv",
+      "sha256": "fca1dd9161cb2f04c1967566b65f97d45afcb1636de9b1ff5c661fb5a78d51c0",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime3_b/K51/mom/trajectory.csv",
+      "sha256": "037ef1df349e0d6614600e88760777ee86d8bc07094d3277fb40787a4e00b026",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed3/raw/regime3_b/K51/sgd/trajectory.csv",
+      "sha256": "2f63083b9600c5372bb6dbf32f97e7b6057d80f6143b64a58db6e497c10e657f",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime1/K11/clipped_gamma1/trajectory.csv",
+      "sha256": "e5601dd87f0bba4673ef30c9bee03871417301efc53c799cbc223fd325a41d4d",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime1/K11/clipped_gamma10/trajectory.csv",
+      "sha256": "8ebee55e46a11852978b601bfd27bb3852406658cdcb94ffa1f2851911f4731f",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime1/K11/clipped_gamma100/trajectory.csv",
+      "sha256": "1c193d0dd340b4a9f73e7c80f29afd05d5a664fd23bfac1a71536393fc325ca0",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime1/K11/clipped_gamma5/trajectory.csv",
+      "sha256": "80bc22370deb2ce41db662a264c1f7d0f600ee4fb64344d3212fa02627ec8921",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime1/K11/clipped_gamma7/trajectory.csv",
+      "sha256": "9dfe3d69c5e081dfe1167f6db5df1d7a68e12453107cc4f2bfe2cbbdfd1d7cda",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime1/K11/mom/trajectory.csv",
+      "sha256": "56ae49a5a2999f718c86493294edf158bf4cb8290ac582967766dcb4f6697c73",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime1/K11/sgd/trajectory.csv",
+      "sha256": "c9a46bb201ebe3d0808c18f658eee4e8c453ec64c56c326cbaf56c09b45924a3",
+      "rows": 239
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime1/K31/clipped_gamma1/trajectory.csv",
+      "sha256": "c575e195267cea249fc6d501996c17981451279c4a21f3ce3fc02cb7108303dd",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime1/K31/clipped_gamma10/trajectory.csv",
+      "sha256": "3b31d71adeec9801f38c650ea3fbd39a1ff19d7f4112c06e4133447b06dc5d24",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime1/K31/clipped_gamma100/trajectory.csv",
+      "sha256": "c4f4d6c922f0648ce92d1e1d747a57fddab9b5d13a1f1fd7bd41b07f7775aa2f",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime1/K31/clipped_gamma5/trajectory.csv",
+      "sha256": "c29c327c426a4e64a6b472d4bec9f9d6221c437266619e99ace9668fd0de0ca8",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime1/K31/clipped_gamma7/trajectory.csv",
+      "sha256": "8b7f01445f54d9af26ec5ea110ac62c50d0d520d03b860d858930a6c3adb02fd",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime1/K31/mom/trajectory.csv",
+      "sha256": "810c3e4a348f0b01c4366459a65b669a4ea61b039286f8a2fbe81f12f524ec42",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime1/K31/sgd/trajectory.csv",
+      "sha256": "3c6c50e63f89b47440000811857b478e98b838ea7d35485a7783c98e52ba414d",
+      "rows": 84
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime1/K51/clipped_gamma1/trajectory.csv",
+      "sha256": "428491c145acc0d68d990c2ac946c0396996d8b424dd8f7f26159ae4f5ee4007",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime1/K51/clipped_gamma10/trajectory.csv",
+      "sha256": "37669367a9ecb4e54500f0abbf329e1f3bb04cf2fa52ec2b82b5c49ec3e53193",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime1/K51/clipped_gamma100/trajectory.csv",
+      "sha256": "4e8dc923eae7747b13c50d26e95740bd27a89f0eaa12d44e327ffb83413f2745",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime1/K51/clipped_gamma5/trajectory.csv",
+      "sha256": "ba9f895b1bf66500b3a96342f494575c6cb4d32511f82dd68cd1c2b4df91f3ba",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime1/K51/clipped_gamma7/trajectory.csv",
+      "sha256": "eb61e5fd1f65f55e69c1cfcf79e0c3f0c93413a999a23df58ec837e6e8ac777e",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime1/K51/mom/trajectory.csv",
+      "sha256": "0711029a9133abb3b85888a61ed4f4914ece1eb2827cff58f1b9f0275a29053e",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime1/K51/sgd/trajectory.csv",
+      "sha256": "585eb987804cd4055edb1ed3fb1b2a9d3ad229a17bcd3bae17bee8089093b4b1",
+      "rows": 53
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime2/K11/clipped_gamma1/trajectory.csv",
+      "sha256": "b4ac0c690410d223bffdd180bce415e68e5750ead4e821d741859542acce3dd0",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime2/K11/clipped_gamma10/trajectory.csv",
+      "sha256": "913371b9c141c89ba339a2eacea86b2aa4287353c616717f58680bee5fc706b8",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime2/K11/clipped_gamma100/trajectory.csv",
+      "sha256": "6b3e3dd014619a04eea205c9bdc9c90826699b0fd4bb0792c9884d380a5aed92",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime2/K11/clipped_gamma5/trajectory.csv",
+      "sha256": "b80bdecfee25ec9fa1a133c7ad915b54dc861a61d68f31a3f20f468ec85a848f",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime2/K11/clipped_gamma7/trajectory.csv",
+      "sha256": "7ab593721ebb1bf9cbe109e9383001de71747990c0253819bec2aaf21a667d20",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime2/K11/mom/trajectory.csv",
+      "sha256": "b7f6c50d006f5a49747d86744fe811833e6a88c1dc13615f6676bd7effcb7f10",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime2/K11/sgd/trajectory.csv",
+      "sha256": "a469f2e57dc145f3268b0368f4c747f8011d942884803e6fc2f569edf632cad5",
+      "rows": 247
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime2/K31/clipped_gamma1/trajectory.csv",
+      "sha256": "36a621b016c46aa140ad7efb05327fcd312ceb5c4449f38755b95a27572f1d5c",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime2/K31/clipped_gamma10/trajectory.csv",
+      "sha256": "5263290a10eec15f60b1c948d21d192fea7a511783cd18f79c5355adb3dbc22f",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime2/K31/clipped_gamma100/trajectory.csv",
+      "sha256": "ca900e2b540b588b765482d23d087c9e69c4a07d3094c6d7d1d763412c02e0ef",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime2/K31/clipped_gamma5/trajectory.csv",
+      "sha256": "25113cee4fd0efe0a029a309277226f0a26ec12dfb14cbd69c0e435347205694",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime2/K31/clipped_gamma7/trajectory.csv",
+      "sha256": "edb65fd0d9861187f4daf9e5e94fdcc85cd201db92cbd9f944eba27f55c31154",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime2/K31/mom/trajectory.csv",
+      "sha256": "fdd51c947b54a4c0bf656a4f7c845d4a9cda59f0bb82225f434d3dd47f742d7c",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime2/K31/sgd/trajectory.csv",
+      "sha256": "e2c094ef0d32d6fdd34cf6312fbb3d1a336922c1daed0fedfceb11a87c9bbe0e",
+      "rows": 85
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime2/K51/clipped_gamma1/trajectory.csv",
+      "sha256": "ac144b8ba9aaa5dd3fb21982c92ad082333b2cd7ac1efef2498b117dc5179755",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime2/K51/clipped_gamma10/trajectory.csv",
+      "sha256": "c5b4deac48a444406084dfa332c35d1384f0891f2c69fe3a571e3083a1a7c73d",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime2/K51/clipped_gamma100/trajectory.csv",
+      "sha256": "a8b8098abd45ca88b603240703e2dc59d9c4388050badd7fd42bd5520674a37e",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime2/K51/clipped_gamma5/trajectory.csv",
+      "sha256": "6e820f6da0f124930b361b31af190ec2be5021fce20122bf9964c4f25277b7a2",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime2/K51/clipped_gamma7/trajectory.csv",
+      "sha256": "2261ebc1ffc54ffc17a3d43649add99beab8a5a942a4a596d33f6f8e4ad543bb",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime2/K51/mom/trajectory.csv",
+      "sha256": "5a816852567a50639436160873ed71f4d6b4b6749ae76341877193bad50ce06c",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime2/K51/sgd/trajectory.csv",
+      "sha256": "260aea6f57a2ca797516e1c7e0ff260e1abc6aefce0e7ed820affa2b25da6d0a",
+      "rows": 56
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime3_a/K11/clipped_gamma1/trajectory.csv",
+      "sha256": "2ba3406e6192d94a26710c030b32eb495ccdf31670247d65bceeab5cf2b87cc0",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime3_a/K11/clipped_gamma10/trajectory.csv",
+      "sha256": "1ffc2b2b5dc1198cce342ef6b72a7cc7b8c9ac0af2b83831cdef10b8e3e91ee1",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime3_a/K11/clipped_gamma100/trajectory.csv",
+      "sha256": "5246ea12413b7b563549af068de72c8b3db9d19881cf3c61a9e0d6079f7d8e05",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime3_a/K11/clipped_gamma5/trajectory.csv",
+      "sha256": "61bdf160fab5749ae1249474587903060287347fd4b3b0fa08e7cb39a7c7d751",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime3_a/K11/clipped_gamma7/trajectory.csv",
+      "sha256": "2035b272723858de71f55c5bceb3787439a98168c384a30aa52e3199988cd508",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime3_a/K11/mom/trajectory.csv",
+      "sha256": "fc0e48d1ce982b1bc7409655b4cffa8c656b885c6d54bbfaf321c2629fc16226",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime3_a/K11/sgd/trajectory.csv",
+      "sha256": "475379e1a5282d0189a818d2cc1128723da1e46b82b7c6f4b310eaa312bd968b",
+      "rows": 241
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime3_a/K31/clipped_gamma1/trajectory.csv",
+      "sha256": "8c94b5fa7ede912168827c478b7b5c195a325ff430b3dba62e567df49b995fba",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime3_a/K31/clipped_gamma10/trajectory.csv",
+      "sha256": "3f4321d4cde0e90b5567fc22c5a6ff7166a8394b78edc110703cf69b50253be4",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime3_a/K31/clipped_gamma100/trajectory.csv",
+      "sha256": "62c86144ed4a914b578e01050773d08a464b37ba938c2435173e19d822d597a1",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime3_a/K31/clipped_gamma5/trajectory.csv",
+      "sha256": "a705a767dec7d22dad622d77857b990bf02003053e0a132abbb9eebf8c6e9051",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime3_a/K31/clipped_gamma7/trajectory.csv",
+      "sha256": "eda676e763074bc2176bc656600d565edebe215d8405a17600c1003f484565f0",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime3_a/K31/mom/trajectory.csv",
+      "sha256": "aacc802934781c0e314fe520bb00c8c71865125d9d485f479f1e6d63487f6c09",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime3_a/K31/sgd/trajectory.csv",
+      "sha256": "753033f3b6952907121fe1fed27f8db461d387a78e84d8191798d61dc374dcb0",
+      "rows": 612
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime3_a/K51/clipped_gamma1/trajectory.csv",
+      "sha256": "f9c67bc1d2771cc646480ae4c787175b7d463811d4ee6d1af221f83dee49be1d",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime3_a/K51/clipped_gamma10/trajectory.csv",
+      "sha256": "4131c23f1b78ec03919261e6041c65d507cde4efb1a9fe8c8ae37f246ca1ebb8",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime3_a/K51/clipped_gamma100/trajectory.csv",
+      "sha256": "2b731de1fab536e935c8b0fd74637da800ac1b5e60f6850b3dcf7d2a13ecc2f7",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime3_a/K51/clipped_gamma5/trajectory.csv",
+      "sha256": "322a028b3fd4e9f306ed635c3a7a9926b1864d2a8ebe2516c683f49715721b64",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime3_a/K51/clipped_gamma7/trajectory.csv",
+      "sha256": "587aa9c33663d7b7b2d460b4939da490b64e787d679ac1a967c425ae56964d03",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime3_a/K51/mom/trajectory.csv",
+      "sha256": "6a0ccaada039c47e82169e5f227f4ca1b71705bd06abb7731e677467e1980054",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime3_a/K51/sgd/trajectory.csv",
+      "sha256": "ab7aa98bec78cfdc8c5a9998aeb09556d76318b6fbd2a9f0b4d82d88f132a451",
+      "rows": 57
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime3_b/K11/clipped_gamma1/trajectory.csv",
+      "sha256": "55bd0d6d57617cab6c5fcffc07d1debcfd625b057a0e04681fe739a5e1f80348",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime3_b/K11/clipped_gamma10/trajectory.csv",
+      "sha256": "f58277feef8f7c0eeac98e689f264eb6093e7203c14af13233caf1db3f641121",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime3_b/K11/clipped_gamma100/trajectory.csv",
+      "sha256": "d22965708769391f1fb1f4e784593848d2de20924d337cc6097ffbb8c349380a",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime3_b/K11/clipped_gamma5/trajectory.csv",
+      "sha256": "7346f4e6b79ae3ffe9ce8364c9aad17a0dc88e8f19323a17e0522b7a83f029fd",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime3_b/K11/clipped_gamma7/trajectory.csv",
+      "sha256": "c738186fa077d8d595d8e6b49df46e17dc14c399c11ec67e52be03f5a99f4f70",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime3_b/K11/mom/trajectory.csv",
+      "sha256": "da01d6d16713f1446f45d481e6bf5c4b0b6e09be37f61118ba26d715bb4e4fb2",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime3_b/K11/sgd/trajectory.csv",
+      "sha256": "b974ce11a8f2b3aaedd59bf28a47635b7ce20ca77ec2fc855e85eaa06a2657c3",
+      "rows": 241
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime3_b/K31/clipped_gamma1/trajectory.csv",
+      "sha256": "4fe0073d446eb1a7b4539954ec6463d695ff141a15ba0e681d668d60a862b2d7",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime3_b/K31/clipped_gamma10/trajectory.csv",
+      "sha256": "f2c6df9c84ba066df529c5cc562207957ed23ddd37388e3a0a7dcbd37741b43f",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime3_b/K31/clipped_gamma100/trajectory.csv",
+      "sha256": "7ab40efbc94f216345b4eadd08e10e3e07e8f363080fe8a84a7909f312c7bbf6",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime3_b/K31/clipped_gamma5/trajectory.csv",
+      "sha256": "a871dab09edd2305a620080f53ba2f300e4cd3160db1e8105d7b95c76121473c",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime3_b/K31/clipped_gamma7/trajectory.csv",
+      "sha256": "04261c2f0519e4ea8b05c095bb926d40dd8d4a8985ac78476e65b544e47e7895",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime3_b/K31/mom/trajectory.csv",
+      "sha256": "112cb390c142d8143e75059da6139154cf904ba9a53b3ca84493623a1df7594f",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime3_b/K31/sgd/trajectory.csv",
+      "sha256": "441be4233379b46c53ca7ec83cb89a17589cae3013944d39ec51e1ff938b18ca",
+      "rows": 612
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime3_b/K51/clipped_gamma1/trajectory.csv",
+      "sha256": "4ac892fb3959d49c00b5512a347e6d4c0e0f2402d209f28858180110b70d515e",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime3_b/K51/clipped_gamma10/trajectory.csv",
+      "sha256": "a5532050fa1916ee3dcb1630f4a775da3d6eea71e5739dec3eb63b82d3fc1778",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime3_b/K51/clipped_gamma100/trajectory.csv",
+      "sha256": "15ac5c13642f66d437acd47d454718a858590b191601f11cf7650ad5f0b7f9d9",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime3_b/K51/clipped_gamma5/trajectory.csv",
+      "sha256": "8af6e4fa4069136c86235b66a24cd3671b167a51d7d59d4e263682bf7a483f1c",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime3_b/K51/clipped_gamma7/trajectory.csv",
+      "sha256": "f1ef60f95589261e94f834c9ed32fbcfedfadd381c11ea742ed39e9d73a4de95",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime3_b/K51/mom/trajectory.csv",
+      "sha256": "b6264316ed99a3cda27bdc4592c462ca1c7f0e169975a25ab088bcdea6ef538b",
+      "rows": 3000
+    },
+    {
+      "source": "results/pareto_d10_final/trajectories/seed4/raw/regime3_b/K51/sgd/trajectory.csv",
+      "sha256": "20ace26f4eb75acbba6cadc4789778bd00f28765ba5cc4801d0e0673e409524e",
+      "rows": 57
+    }
+  ]
+}

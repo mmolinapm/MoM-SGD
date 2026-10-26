@@ -1,0 +1,84 @@
+{
+  "date": "2026-10-25",
+  "platform": "Windows x64; regular CPython 3.14.6",
+  "genuine_fresh_install": true,
+  "shared_dependency_path_files": false,
+  "installed_dependencies_reused": false,
+  "checks": [
+    {
+      "check": "fresh_environment",
+      "exit_code": 0,
+      "seconds": 0.18,
+      "error": null
+    },
+    {
+      "check": "install_cpu",
+      "exit_code": 0,
+      "seconds": 59.6,
+      "error": null
+    },
+    {
+      "check": "install_locked",
+      "exit_code": 0,
+      "seconds": 60.45,
+      "error": null
+    },
+    {
+      "check": "pip_check",
+      "exit_code": 0,
+      "seconds": 0.74,
+      "error": null
+    },
+    {
+      "check": "imports",
+      "exit_code": 0,
+      "seconds": 40.92,
+      "error": null
+    },
+    {
+      "check": "manifest_before",
+      "exit_code": 0,
+      "seconds": 0.55,
+      "error": null
+    },
+    {
+      "check": "pytest",
+      "exit_code": 0,
+      "seconds": 65.79,
+      "error": null
+    },
+    {
+      "check": "pareto_config",
+      "exit_code": 0,
+      "seconds": 2.15,
+      "error": null
+    },
+    {
+      "check": "failure_audit",
+      "exit_code": 0,
+      "seconds": 2.12,
+      "error": null
+    },
+    {
+      "check": "combined_reconstruction",
+      "exit_code": 0,
+      "seconds": 49.67,
+      "error": null
+    },
+    {
+      "check": "manifest_after",
+      "exit_code": 0,
+      "seconds": 0.18,
+      "error": null
+    }
+  ],
+  "pytest_result": "51 passed in 63.52s (0:01:03)",
+  "combined_figure_files": {
+    "cnn": 10,
+    "pareto": 92
+  },
+  "failure_audit_csvs_byte_identical": true,
+  "scientific_and_numerical_files_unchanged": true,
+  "full_training": false,
+  "originals_modified": false
+}

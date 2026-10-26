@@ -1,0 +1,191 @@
+publication_repo_proposed/
+|-- docs/
+|   |-- FIGURE_INCLUSION.csv
+|   |-- FIGURE_SELECTION.md
+|   |-- FILE_SELECTION.csv
+|   |-- FINAL_TREE.txt
+|   |-- PARETO_FAILURES.md
+|   +-- STATISTICAL_SUMMARIES.md
+|-- experiments/
+|   |-- cifar10_siopt_final.py
+|   |-- cifar10_siopt_final_analysis.py
+|   +-- pareto_d10_final.py
+|-- figures/
+|   |-- main/
+|   |   |-- cnn/
+|   |   |   |-- figure_A_training_loss.pdf
+|   |   |   |-- figure_A_training_loss.png
+|   |   |   |-- figure_B_test_loss.pdf
+|   |   |   |-- figure_B_test_loss.png
+|   |   |   |-- figure_C_accuracy.pdf
+|   |   |   |-- figure_C_accuracy.png
+|   |   |   |-- figure_E_final_performance.pdf
+|   |   |   +-- figure_E_final_performance.png
+|   |   +-- pareto/
+|   |       |-- completion_rate.pdf
+|   |       |-- completion_rate.png
+|   |       |-- equal_iterations_vs_equal_samples.pdf
+|   |       |-- equal_iterations_vs_equal_samples.png
+|   |       |-- mom_k_sensitivity.pdf
+|   |       |-- mom_k_sensitivity.png
+|   |       |-- regime1_clipped_refK31_theta_error.pdf
+|   |       |-- regime1_clipped_refK31_theta_error.png
+|   |       |-- regime1_mom_theta_error.pdf
+|   |       |-- regime1_mom_theta_error.png
+|   |       |-- regime1_sgd_theta_error.pdf
+|   |       |-- regime1_sgd_theta_error.png
+|   |       |-- robustness_parameter_sensitivity.pdf
+|   |       +-- robustness_parameter_sensitivity.png
+|   +-- supplementary/
+|       |-- cnn/
+|       |   |-- figure_D_gradient_diagnostics.pdf
+|       |   +-- figure_D_gradient_diagnostics.png
+|       +-- pareto/
+|           |-- regime2_clipped_refK31_theta_error.pdf
+|           |-- regime2_clipped_refK31_theta_error.png
+|           |-- regime2_mom_theta_error.pdf
+|           |-- regime2_mom_theta_error.png
+|           |-- regime2_sgd_theta_error.pdf
+|           |-- regime2_sgd_theta_error.png
+|           |-- regime3_a_clipped_refK31_theta_error.pdf
+|           |-- regime3_a_clipped_refK31_theta_error.png
+|           |-- regime3_a_mom_theta_error.pdf
+|           |-- regime3_a_mom_theta_error.png
+|           |-- regime3_a_sgd_theta_error.pdf
+|           |-- regime3_a_sgd_theta_error.png
+|           |-- regime3_b_clipped_refK31_theta_error.pdf
+|           |-- regime3_b_clipped_refK31_theta_error.png
+|           |-- regime3_b_mom_theta_error.pdf
+|           |-- regime3_b_mom_theta_error.png
+|           |-- regime3_b_sgd_theta_error.pdf
+|           |-- regime3_b_sgd_theta_error.png
+|           |-- stability.pdf
+|           +-- stability.png
+|-- provenance/
+|   |-- cnn_inputs.json
+|   |-- pareto_original_manifest.json
+|   |-- pareto_projection.json
+|   |-- preservation_checks.json
+|   |-- publication_scan.json
+|   |-- release_validation.json
+|   |-- selected_figures.json
+|   |-- source_equivalence.json
+|   +-- tested_dependencies.json
+|-- results/
+|   |-- cnn/
+|   |   |-- reference/
+|   |   |   |-- aggregated_accuracy.csv
+|   |   |   |-- aggregated_test_loss.csv
+|   |   |   |-- aggregated_training_loss.csv
+|   |   |   |-- final_median_iqr_summary.csv
+|   |   |   |-- final_per_seed_metrics.csv
+|   |   |   +-- gradient_diagnostics_summary.csv
+|   |   |-- runtime/
+|   |   |   |-- component_breakdown.csv
+|   |   |   |-- correctness_checks.json
+|   |   |   |-- paired_round_ratios.csv
+|   |   |   +-- runtime_audit.csv
+|   |   |-- seed123/
+|   |   |   |-- clipped_0.25_evaluation.csv.gz
+|   |   |   |-- clipped_0.25_optimization.csv.gz
+|   |   |   |-- clipped_0.5_evaluation.csv.gz
+|   |   |   |-- clipped_0.5_optimization.csv.gz
+|   |   |   |-- clipped_2_evaluation.csv.gz
+|   |   |   |-- clipped_2_optimization.csv.gz
+|   |   |   |-- clipped_4_evaluation.csv.gz
+|   |   |   |-- clipped_4_optimization.csv.gz
+|   |   |   |-- clipped_8_evaluation.csv.gz
+|   |   |   |-- clipped_8_optimization.csv.gz
+|   |   |   |-- completion.json
+|   |   |   |-- config.json
+|   |   |   |-- mom_K5_m20_evaluation.csv.gz
+|   |   |   |-- mom_K5_m20_optimization.csv.gz
+|   |   |   |-- normalized_evaluation.csv.gz
+|   |   |   |-- normalized_optimization.csv.gz
+|   |   |   |-- sgd_evaluation.csv.gz
+|   |   |   +-- sgd_optimization.csv.gz
+|   |   |-- seed2026/
+|   |   |   |-- clipped_0.25_evaluation.csv.gz
+|   |   |   |-- clipped_0.25_optimization.csv.gz
+|   |   |   |-- clipped_0.5_evaluation.csv.gz
+|   |   |   |-- clipped_0.5_optimization.csv.gz
+|   |   |   |-- clipped_2_evaluation.csv.gz
+|   |   |   |-- clipped_2_optimization.csv.gz
+|   |   |   |-- clipped_4_evaluation.csv.gz
+|   |   |   |-- clipped_4_optimization.csv.gz
+|   |   |   |-- clipped_8_evaluation.csv.gz
+|   |   |   |-- clipped_8_optimization.csv.gz
+|   |   |   |-- completion.json
+|   |   |   |-- config.json
+|   |   |   |-- mom_K5_m20_evaluation.csv.gz
+|   |   |   |-- mom_K5_m20_optimization.csv.gz
+|   |   |   |-- normalized_evaluation.csv.gz
+|   |   |   |-- normalized_optimization.csv.gz
+|   |   |   |-- sgd_evaluation.csv.gz
+|   |   |   +-- sgd_optimization.csv.gz
+|   |   +-- seed42/
+|   |       |-- clipped_0.25_evaluation.csv.gz
+|   |       |-- clipped_0.25_optimization.csv.gz
+|   |       |-- clipped_0.5_evaluation.csv.gz
+|   |       |-- clipped_0.5_optimization.csv.gz
+|   |       |-- clipped_2_evaluation.csv.gz
+|   |       |-- clipped_2_optimization.csv.gz
+|   |       |-- clipped_4_evaluation.csv.gz
+|   |       |-- clipped_4_optimization.csv.gz
+|   |       |-- clipped_8_evaluation.csv.gz
+|   |       |-- clipped_8_optimization.csv.gz
+|   |       |-- completion.json
+|   |       |-- config.json
+|   |       |-- mom_K5_m20_evaluation.csv.gz
+|   |       |-- mom_K5_m20_optimization.csv.gz
+|   |       |-- normalized_evaluation.csv.gz
+|   |       |-- normalized_optimization.csv.gz
+|   |       |-- sgd_evaluation.csv.gz
+|   |       +-- sgd_optimization.csv.gz
+|   +-- pareto/
+|       |-- audit/
+|       |   |-- failed_runs.csv
+|       |   |-- failures_by_configuration.csv
+|       |   |-- summary_denominators.csv
+|       |   +-- trajectory_denominators.csv
+|       |-- reference/
+|       |   |-- batch_budget_audit.csv
+|       |   |-- five_seed_aggregate_equal_iterations.csv
+|       |   |-- five_seed_aggregate_equal_samples.csv
+|       |   +-- schedule_audit.csv
+|       |-- data_fingerprints_seed0.json
+|       |-- data_fingerprints_seed1.json
+|       |-- data_fingerprints_seed2.json
+|       |-- data_fingerprints_seed3.json
+|       |-- data_fingerprints_seed4.json
+|       |-- failed_terminal_rows.csv
+|       +-- plot_inputs.json.gz
+|-- scripts/
+|   |-- audit_pareto_failures.py
+|   |-- prepare_cifar10.py
+|   |-- reconstruct.py
+|   +-- verify_manifest.py
+|-- src/
+|   |-- __init__.py
+|   |-- cifar10_utils.py
+|   |-- mom.py
+|   |-- optimizers.py
+|   +-- schedules.py
+|-- tests/
+|   |-- test_cifar10_siopt_final.py
+|   |-- test_cifar10_siopt_final_analysis.py
+|   |-- test_mom.py
+|   +-- test_publication.py
+|-- .gitattributes
+|-- .gitignore
+|-- AUDIT.md
+|-- CITATION.cff
+|-- LICENSE.draft
+|-- MANIFEST.sha256.json
+|-- PUBLICATION_FILES.txt
+|-- pytest.ini
+|-- README.md
+|-- RELEASE_CHECKLIST.md
+|-- requirements-tested.txt
+|-- requirements.txt
++-- VALIDATION.md

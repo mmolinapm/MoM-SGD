@@ -1,0 +1,181 @@
+{
+  "status": "provisional; manuscript mapping pending",
+  "files": [
+    {
+      "file": "figures/main/cnn/figure_A_training_loss.pdf",
+      "sha256": "c10c8fd91468554de4dfa8960353731a100101ddafffcc2d26caf5d07f923bce"
+    },
+    {
+      "file": "figures/main/cnn/figure_A_training_loss.png",
+      "sha256": "7f48875f03dc43541ee2c7d12b88942b769c6f78aa1ebb75f5df5ca692e7aa16"
+    },
+    {
+      "file": "figures/main/cnn/figure_B_test_loss.pdf",
+      "sha256": "3bc26c8c3392486cc0d96436434df08dc71cc8d6254488f8f02f300900ab6e6a"
+    },
+    {
+      "file": "figures/main/cnn/figure_B_test_loss.png",
+      "sha256": "634fbc799347ea448cde373e4b4670763d6326f89a402dcc42bc0ad77124b21c"
+    },
+    {
+      "file": "figures/main/cnn/figure_C_accuracy.pdf",
+      "sha256": "87ee38639423d22ba4255bf387cb39f63ba5cc6707f1f5c9f40054ba65d29302"
+    },
+    {
+      "file": "figures/main/cnn/figure_C_accuracy.png",
+      "sha256": "7ece395e9030d85983fc2180053c053f291bd10d862bf690e0ca0f1cd342d72d"
+    },
+    {
+      "file": "figures/supplementary/cnn/figure_D_gradient_diagnostics.pdf",
+      "sha256": "8baecfae95680bdc3deaa0fc1effe65d924edf96c82642a0d020746c460b96c4"
+    },
+    {
+      "file": "figures/supplementary/cnn/figure_D_gradient_diagnostics.png",
+      "sha256": "21fe5ddf01e6403c87890a49dbfc3d5847ec77ba40b640efe44c11b724baa2bb"
+    },
+    {
+      "file": "figures/main/cnn/figure_E_final_performance.pdf",
+      "sha256": "56ffb3d5a794f029f3d51559f5a03e96aeb1fb6758b0b681f24fc9bf57a890b1"
+    },
+    {
+      "file": "figures/main/cnn/figure_E_final_performance.png",
+      "sha256": "b765517ee98d743ae19472945edfde7bda3e0d3e931926c75ca53fee54f6a77c"
+    },
+    {
+      "file": "figures/main/pareto/completion_rate.pdf",
+      "sha256": "935a51cd8c1f7b8e3032c3f02ee9261d50cb35dfc233b190ded0d5fa6ccb67bf"
+    },
+    {
+      "file": "figures/main/pareto/completion_rate.png",
+      "sha256": "a294d214624c1246f19f169c22c7838f303a4cff0c70862476766a7e95ba1b61"
+    },
+    {
+      "file": "figures/main/pareto/equal_iterations_vs_equal_samples.pdf",
+      "sha256": "793c5b2f57fd06171a1fc5b0547e1f8020d2d2b77f2b6e10e00b6231c375f6ab"
+    },
+    {
+      "file": "figures/main/pareto/equal_iterations_vs_equal_samples.png",
+      "sha256": "dadf2ae181b4556f5e7056e9948da2185dc7e79f0e98dbeaec5b96096e12149d"
+    },
+    {
+      "file": "figures/main/pareto/mom_k_sensitivity.pdf",
+      "sha256": "00029589b0e403998613f28ec19bbe234c1111b3791be28a3dca4b19a96d8731"
+    },
+    {
+      "file": "figures/main/pareto/mom_k_sensitivity.png",
+      "sha256": "868a647c312ed2e875ebec4874d77d546500fa215bf4625dbf7aef9cafa68036"
+    },
+    {
+      "file": "figures/main/pareto/regime1_clipped_refK31_theta_error.pdf",
+      "sha256": "9e4674d658d0b7d2d27b50811afa53bee741bc7fbddff09e7840a531a61ea1de"
+    },
+    {
+      "file": "figures/main/pareto/regime1_clipped_refK31_theta_error.png",
+      "sha256": "25a8deb9d62b2a032bd37d0c626b6c661d78343d263c55798660fedd0b9a4001"
+    },
+    {
+      "file": "figures/main/pareto/regime1_mom_theta_error.pdf",
+      "sha256": "03fce089e08593c06b840997775348832e463e4ef12be02b094a8e30205b308f"
+    },
+    {
+      "file": "figures/main/pareto/regime1_mom_theta_error.png",
+      "sha256": "0ae8b1deb5b4dba605f8c9c9ff90356e45c1751d67f8b756f24c5d0f2b0333f6"
+    },
+    {
+      "file": "figures/main/pareto/regime1_sgd_theta_error.pdf",
+      "sha256": "6aa0f444b3e322960ca5a900b258f3be6e8845eefc13531d3f4e4ccd0ce53785"
+    },
+    {
+      "file": "figures/main/pareto/regime1_sgd_theta_error.png",
+      "sha256": "95c94226858acf9da7c6d51b32fa30f23c248f186b0f574db57e6a566ff0c3c7"
+    },
+    {
+      "file": "figures/supplementary/pareto/regime2_clipped_refK31_theta_error.pdf",
+      "sha256": "7b964d367dd191e94a0899433cb5933b1c06ce7907e606e770718c60e4688aef"
+    },
+    {
+      "file": "figures/supplementary/pareto/regime2_clipped_refK31_theta_error.png",
+      "sha256": "de2f29cc19be37b52c1e3c5aff1896a7d6e048d1626c14a107ae4b6cd4924ba9"
+    },
+    {
+      "file": "figures/supplementary/pareto/regime2_mom_theta_error.pdf",
+      "sha256": "37a62e2d42dd52e781d810ad3525ab42c482a39c7104b3d5bc032607f2a6d1e5"
+    },
+    {
+      "file": "figures/supplementary/pareto/regime2_mom_theta_error.png",
+      "sha256": "0ccfeab9f5ff5959bda3afdb1c57a78fc928fc6bbbeddbd391121887cf0914e0"
+    },
+    {
+      "file": "figures/supplementary/pareto/regime2_sgd_theta_error.pdf",
+      "sha256": "03fc66d06d9ae475200232fca10913a8aec1ac9ce38ba4bd795ab948a351e40a"
+    },
+    {
+      "file": "figures/supplementary/pareto/regime2_sgd_theta_error.png",
+      "sha256": "98f3dc71329085f9c254da2212c14435874dd3aca2669459da9ea8f7fa369fc6"
+    },
+    {
+      "file": "figures/supplementary/pareto/regime3_a_clipped_refK31_theta_error.pdf",
+      "sha256": "c24fcd97d11313ee14dab30a3ea9e60a76fc594f06038195006d3127810533ba"
+    },
+    {
+      "file": "figures/supplementary/pareto/regime3_a_clipped_refK31_theta_error.png",
+      "sha256": "8dd427d6b9c9eb7d6b005a9dfefe4c03696d45ad3e5105ee19fa415f530ac11f"
+    },
+    {
+      "file": "figures/supplementary/pareto/regime3_a_mom_theta_error.pdf",
+      "sha256": "cce9427c012e006226b4eaa736e049a638d4e1aff4c827ad221c61b06ea1c867"
+    },
+    {
+      "file": "figures/supplementary/pareto/regime3_a_mom_theta_error.png",
+      "sha256": "12e6227994863063463938409b9a387be02aaf35ff120eccc385a29237fc1870"
+    },
+    {
+      "file": "figures/supplementary/pareto/regime3_a_sgd_theta_error.pdf",
+      "sha256": "e84efd8b808a70e6417fd1497ae76c3aa732d1813eeba6919c9b1a3567ef5269"
+    },
+    {
+      "file": "figures/supplementary/pareto/regime3_a_sgd_theta_error.png",
+      "sha256": "5484ed2070b66a66d8aaf03da5ee4bdd52969e24cf553cd9423a26918edf3756"
+    },
+    {
+      "file": "figures/supplementary/pareto/regime3_b_clipped_refK31_theta_error.pdf",
+      "sha256": "c533828695e20ffd3d749f4c53813a8f7c383794d941e410da005f6a2dbf75c6"
+    },
+    {
+      "file": "figures/supplementary/pareto/regime3_b_clipped_refK31_theta_error.png",
+      "sha256": "6957ea169f06dece207338f4d9efe065ceabd25a7061a43d9dbb109268e76fa5"
+    },
+    {
+      "file": "figures/supplementary/pareto/regime3_b_mom_theta_error.pdf",
+      "sha256": "ab9e9c1943f06609ea42478071ff3f1480f52ba0da6c86ac18390feb3de7e744"
+    },
+    {
+      "file": "figures/supplementary/pareto/regime3_b_mom_theta_error.png",
+      "sha256": "2b119bf8896ecd8717cf8d35d7efd72e9e42bc2512f311d33c78d979efad4037"
+    },
+    {
+      "file": "figures/supplementary/pareto/regime3_b_sgd_theta_error.pdf",
+      "sha256": "6a7e6d0293ef49068f7bd78f5c9f0481390834bc5001fb353b0780a14f4f6ef5"
+    },
+    {
+      "file": "figures/supplementary/pareto/regime3_b_sgd_theta_error.png",
+      "sha256": "d2f770d67d9e888a5d698b5114d2157d62648d5f4b04b3e56d8de4a4beaf0b90"
+    },
+    {
+      "file": "figures/main/pareto/robustness_parameter_sensitivity.pdf",
+      "sha256": "4ef8fa5129a4612ac60140865d858181d81ae971d87986a489aabc2f9717a17b"
+    },
+    {
+      "file": "figures/main/pareto/robustness_parameter_sensitivity.png",
+      "sha256": "ff25a20bc1e63c5a541b1eee794e2890ceb816771f014e1c7871ec951b2d4ca9"
+    },
+    {
+      "file": "figures/supplementary/pareto/stability.pdf",
+      "sha256": "7d14312c5cadc863a2d0938a944610db254e7b1ea357f8e501c54ef40c546ca7"
+    },
+    {
+      "file": "figures/supplementary/pareto/stability.png",
+      "sha256": "779be47c39de0bffb8fdc6e4bdd94be17eda3f54bb181f745c1fc2594c841b52"
+    }
+  ]
+}

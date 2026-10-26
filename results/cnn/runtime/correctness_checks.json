@@ -1,0 +1,17 @@
+{
+  "batch_100": true,
+  "float32": true,
+  "identical_initial_parameters": true,
+  "inactive_clip8_bitwise_equal": true,
+  "mom_blocks": [
+    20,
+    20,
+    20,
+    20,
+    20
+  ],
+  "no_retained_gradient_graph": true,
+  "no_parameter_grad_accumulation": true,
+  "device": "cpu",
+  "source_hashes_match": true
+}

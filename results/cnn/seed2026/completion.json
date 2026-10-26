@@ -1,0 +1,48 @@
+{
+  "status": "completed",
+  "all_eight_completed": true,
+  "methods": {
+    "sgd": {
+      "status": "completed",
+      "method": "sgd",
+      "updates": 15000
+    },
+    "normalized": {
+      "status": "completed",
+      "method": "normalized",
+      "updates": 15000
+    },
+    "clipped_0.25": {
+      "status": "completed",
+      "method": "clipped_0.25",
+      "updates": 15000
+    },
+    "clipped_0.5": {
+      "status": "completed",
+      "method": "clipped_0.5",
+      "updates": 15000
+    },
+    "clipped_2": {
+      "status": "completed",
+      "method": "clipped_2",
+      "updates": 15000
+    },
+    "clipped_4": {
+      "status": "completed",
+      "method": "clipped_4",
+      "updates": 15000
+    },
+    "clipped_8": {
+      "status": "completed",
+      "method": "clipped_8",
+      "updates": 15000
+    },
+    "mom_K5_m20": {
+      "status": "completed",
+      "method": "mom_K5_m20",
+      "updates": 15000
+    }
+  },
+  "invocation_wall_seconds": 12274.824447400002,
+  "aggregate_reporting_seconds": 14.247388200001296
+}

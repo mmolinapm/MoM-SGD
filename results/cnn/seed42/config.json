@@ -1,0 +1,201 @@
+{
+  "identity": {
+    "experiment": "siopt_final_v1",
+    "architecture": "cnn",
+    "parameters": 94304,
+    "methods": {
+      "sgd": {
+        "K": 0,
+        "m": 0,
+        "gamma": null
+      },
+      "normalized": {
+        "K": 0,
+        "m": 0,
+        "gamma": null
+      },
+      "clipped_0.25": {
+        "K": 0,
+        "m": 0,
+        "gamma": 0.25
+      },
+      "clipped_0.5": {
+        "K": 0,
+        "m": 0,
+        "gamma": 0.5
+      },
+      "clipped_2": {
+        "K": 0,
+        "m": 0,
+        "gamma": 2.0
+      },
+      "clipped_4": {
+        "K": 0,
+        "m": 0,
+        "gamma": 4.0
+      },
+      "clipped_8": {
+        "K": 0,
+        "m": 0,
+        "gamma": 8.0
+      },
+      "mom_K5_m20": {
+        "K": 5,
+        "m": 20,
+        "gamma": null
+      }
+    },
+    "seed": 42,
+    "threads": 4,
+    "device": "cpu",
+    "dtype": "float32",
+    "source_hashes": {
+      "experiments/cifar10_siopt_final.py": "e93730d0b4f80f580e7950c748cabad0f142a8674d4b414206daf8096f5da3e7",
+      "experiments/cifar10_fixed_budget_sensitivity.py": "b6d44b1e67c3f6c1d8d4d1dd8779724e7cf7955f6a7271c1c58014dee6caaa62",
+      "src/mom.py": "0393c2601d05960e60d2b912c0587239b4ab631166524da438204139a19f1bdd",
+      "src/optimizers.py": "ff8d43043ba64eaf79e7809e2c007187c07c33ee871f4589ee3baa8cea9ad3b0"
+    },
+    "torch": "2.14.0+cpu",
+    "torchvision": "0.29.0+cpu",
+    "numpy": "2.5.3",
+    "schedule_sha256": "fc0aa17afa1ea42019620f8d01f6793aca9959852d428f3cb4fb1487d3ccedc3",
+    "initial_sha256": "3dcdce03b8feee06a762aa99871d46a7ffc655b868480a61ef8eac465f57874a",
+    "cache_sha256": {
+      "train": "13a9ca4fb9b896f42562fb4138e50e7f99fb49e8a38141ad591f7082fbf93080",
+      "test": "ccea5d78811af05ac7ad24f147cdedf8912345d492fa015a9b247f26586314aa"
+    }
+  },
+  "mode": "run",
+  "source_hashes": {
+    "experiments/cifar10_siopt_final.py": "e93730d0b4f80f580e7950c748cabad0f142a8674d4b414206daf8096f5da3e7",
+    "experiments/cifar10_fixed_budget_sensitivity.py": "b6d44b1e67c3f6c1d8d4d1dd8779724e7cf7955f6a7271c1c58014dee6caaa62",
+    "src/mom.py": "0393c2601d05960e60d2b912c0587239b4ab631166524da438204139a19f1bdd",
+    "src/optimizers.py": "ff8d43043ba64eaf79e7809e2c007187c07c33ee871f4589ee3baa8cea9ad3b0"
+  },
+  "seed": 42,
+  "threads": 4,
+  "device": "cpu",
+  "architecture": "Sequential(\n  (0): Conv2d(3, 32, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)\n  (1): ReLU()\n  (2): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)\n  (3): Conv2d(32, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)\n  (4): ReLU()\n  (5): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)\n  (6): Conv2d(64, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)\n  (7): ReLU()\n  (8): AdaptiveAvgPool2d(output_size=(1, 1))\n  (9): Flatten(start_dim=1, end_dim=-1)\n  (10): Linear(in_features=128, out_features=10, bias=False)\n)",
+  "parameters": 94304,
+  "methods": {
+    "sgd": {
+      "K": 0,
+      "m": 0,
+      "gamma": null
+    },
+    "normalized": {
+      "K": 0,
+      "m": 0,
+      "gamma": null
+    },
+    "clipped_0.25": {
+      "K": 0,
+      "m": 0,
+      "gamma": 0.25
+    },
+    "clipped_0.5": {
+      "K": 0,
+      "m": 0,
+      "gamma": 0.5
+    },
+    "clipped_2": {
+      "K": 0,
+      "m": 0,
+      "gamma": 2.0
+    },
+    "clipped_4": {
+      "K": 0,
+      "m": 0,
+      "gamma": 4.0
+    },
+    "clipped_8": {
+      "K": 0,
+      "m": 0,
+      "gamma": 8.0
+    },
+    "mom_K5_m20": {
+      "K": 5,
+      "m": 20,
+      "gamma": null
+    }
+  },
+  "num_iterations": 15000,
+  "batch_size": 100,
+  "learning_rate_boundaries": {
+    "1-4999": 0.1,
+    "5000-9999": 0.05,
+    "10000-15000": 0.025
+  },
+  "evaluation_iterations": [
+    0,
+    500,
+    1000,
+    1500,
+    2000,
+    2500,
+    3000,
+    3500,
+    4000,
+    4500,
+    5000,
+    5500,
+    6000,
+    6500,
+    7000,
+    7500,
+    8000,
+    8500,
+    9000,
+    9500,
+    10000,
+    10500,
+    11000,
+    11500,
+    12000,
+    12500,
+    13000,
+    13500,
+    14000,
+    14500,
+    15000
+  ],
+  "evaluation_batch_size": 128,
+  "checkpoint_every": 250,
+  "preprocessing": {
+    "mean": [
+      0.491,
+      0.482,
+      0.447
+    ],
+    "std": [
+      0.247,
+      0.243,
+      0.262
+    ],
+    "dtype": "float32",
+    "augmentation": false
+  },
+  "cache": {
+    "train": {
+      "created": false,
+      "seconds": 0.7142574999888893,
+      "bytes": 614400000,
+      "tensor_sha256": "13a9ca4fb9b896f42562fb4138e50e7f99fb49e8a38141ad591f7082fbf93080",
+      "path": "data/cifar10_fixed_budget_float32_cache_v1/train.f32"
+    },
+    "test": {
+      "created": false,
+      "seconds": 0.13783220000914298,
+      "bytes": 122880000,
+      "tensor_sha256": "ccea5d78811af05ac7ad24f147cdedf8912345d492fa015a9b247f26586314aa",
+      "path": "data/cifar10_fixed_budget_float32_cache_v1/test.f32"
+    }
+  },
+  "python": "3.14.6 (tags/v3.14.6:c63aec6, Jun 10 2026, 10:26:10) [MSC v.1944 64 bit (AMD64)]",
+  "revision": null,
+  "data_setup_seconds": 1.5798940999957267,
+  "protocol": "No momentum/weight decay/regularization; 30 full epochs, no discarded examples; shared ordered schedule; unsmoothed primary curves.",
+  "diagnostics": "Strict >5 times within-method median effective norm and >10 absolute norm; diagnostic only; undefined cosine NaN.",
+  "interpretation": "Single seed; report failures, generalization gaps and compute costs. Test loss is not an optimization certificate; no claim about infinite variance or theorem verification.",
+  "cnn_parameter_count_note": "The exact requested bias-free layers contain 94304 parameters (864+18432+73728+1280), not 94368."
+}

@@ -1,0 +1,176 @@
+{
+  "python": "3.14.6",
+  "packages": [
+    {
+      "name": "colorama",
+      "version": "0.4.6",
+      "requires": []
+    },
+    {
+      "name": "contourpy",
+      "version": "1.3.3",
+      "requires": [
+        "numpy>=1.25"
+      ]
+    },
+    {
+      "name": "cycler",
+      "version": "0.12.1",
+      "requires": []
+    },
+    {
+      "name": "filelock",
+      "version": "3.32.5",
+      "requires": []
+    },
+    {
+      "name": "fonttools",
+      "version": "4.64.0",
+      "requires": []
+    },
+    {
+      "name": "fsspec",
+      "version": "2026.7.0",
+      "requires": []
+    },
+    {
+      "name": "iniconfig",
+      "version": "2.3.0",
+      "requires": []
+    },
+    {
+      "name": "Jinja2",
+      "version": "3.1.6",
+      "requires": [
+        "MarkupSafe>=2.0"
+      ]
+    },
+    {
+      "name": "kiwisolver",
+      "version": "1.5.1",
+      "requires": []
+    },
+    {
+      "name": "MarkupSafe",
+      "version": "3.0.3",
+      "requires": []
+    },
+    {
+      "name": "matplotlib",
+      "version": "3.11.1",
+      "requires": [
+        "contourpy>=1.0.1",
+        "cycler>=0.10",
+        "fonttools>=4.28.2",
+        "kiwisolver>=1.3.1",
+        "numpy>=1.25",
+        "packaging>=20.0",
+        "pillow>=9",
+        "pyparsing>=3",
+        "python-dateutil>=2.7"
+      ]
+    },
+    {
+      "name": "mpmath",
+      "version": "1.3.0",
+      "requires": []
+    },
+    {
+      "name": "networkx",
+      "version": "3.6.1",
+      "requires": []
+    },
+    {
+      "name": "numpy",
+      "version": "2.5.3",
+      "requires": []
+    },
+    {
+      "name": "packaging",
+      "version": "26.3",
+      "requires": []
+    },
+    {
+      "name": "pillow",
+      "version": "12.3.0",
+      "requires": []
+    },
+    {
+      "name": "pluggy",
+      "version": "1.6.0",
+      "requires": []
+    },
+    {
+      "name": "Pygments",
+      "version": "2.21.0",
+      "requires": []
+    },
+    {
+      "name": "pyparsing",
+      "version": "3.3.2",
+      "requires": []
+    },
+    {
+      "name": "pytest",
+      "version": "9.1.1",
+      "requires": [
+        "colorama>=0.4; sys_platform == \"win32\"",
+        "iniconfig>=1.0.1",
+        "packaging>=22",
+        "pluggy<2,>=1.5",
+        "pygments>=2.7.2"
+      ]
+    },
+    {
+      "name": "python-dateutil",
+      "version": "2.9.0.post0",
+      "requires": [
+        "six>=1.5"
+      ]
+    },
+    {
+      "name": "setuptools",
+      "version": "84.0.0",
+      "requires": []
+    },
+    {
+      "name": "six",
+      "version": "1.17.0",
+      "requires": []
+    },
+    {
+      "name": "sympy",
+      "version": "1.14.0",
+      "requires": [
+        "mpmath<1.4,>=1.1.0"
+      ]
+    },
+    {
+      "name": "torch",
+      "version": "2.14.0",
+      "requires": [
+        "filelock",
+        "typing-extensions>=4.10.0",
+        "setuptools>=77.0.3",
+        "sympy>=1.13.3",
+        "networkx>=2.5.1",
+        "jinja2",
+        "fsspec>=0.8.5"
+      ]
+    },
+    {
+      "name": "torchvision",
+      "version": "0.29.0",
+      "requires": [
+        "numpy",
+        "torch==2.14.0",
+        "pillow!=8.3.*,>=5.3.0"
+      ]
+    },
+    {
+      "name": "typing_extensions",
+      "version": "4.16.0",
+      "requires": []
+    }
+  ]
+}
